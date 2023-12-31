@@ -1,0 +1,34 @@
+{
+  "titre": "Orientation sexuelle (version build)",
+  "contenus": [
+    {
+      "titre": "Définition",
+      "contenus": [
+        {
+          "titre": " L’orientation affective et sexuelle",
+          "contenu": "(dev de l’orientation affective et sexuelle)"
+        },
+        {
+          "titre": "L’identité",
+          "contenu": "(dev de l'identité)"
+        },
+        {
+          "titre": "Le genre",
+          "contenu": "(dev du genre)"
+        },
+        {
+          "titre": "Les stéréotypes",
+          "contenu": "(dev des stéréotypes)"
+        },
+        {
+          "titre": "Être un homme et se sentir femme, et vice versa",
+          "contenu": "(dev d'être un homme et se sentir femme, et vice versa)"
+        }
+      ]
+    },
+    {
+      "titre": "PERSONNES - LIEUX RESSOURCES",
+      "contenus": "(à definir...)"
+    }
+  ]
+}
