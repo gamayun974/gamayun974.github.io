@@ -1,19 +1,29 @@
+
 {
-  "titre": "Adolescence",
+  "titre": "Le corps à l’adolescence (version build)",
   "contenus": [
     {
-      "titre": "Définitions",
-      "contenus": [
-        {
-          "titre": "Définition",
-          "contenu": "L'adolescence est la <span class='fluo'>période de transition entre l'enfance et l'âge adulte.</span>,<br><br>Elle s'accompagne de nombreux changements physiques, psychologiques, émotionnels et sexuels."
-        },
-        {
-          "titre": "Les transformations physiques",
-          "contenu": "Les transformations physiques observées durant l'adolescence résultent pour la plupart de modifications hormonales. La puberté survient à un rythme différent pour chaque individu. Ce sont les hormones sexuelles qui sont responsables des changements corporels observés. Le corps des garçons produira davantage de testostérone tandis que celui des filles, davantage d'estrogènes.<br><br> On appelle cette phase la <span class='fluo'>puberté ; elle débute entre 9 et 16 ans et se termine en général entre 18 et 22 ans...</span> Les changements corporels observés chez les deux sexes comprennent des poussées de croissance, une transpiration plus abondante, l'apparition d'acné, l'apparition de la pilosité pubienne et sous les bras. Les signes du développement pubertaire ne sont pas les mêmes chez les filles et les garçons (cf. schéma)"
-        }
-      ]
+      "titre": "Définition",
+      "contenu": "L'adolescence est la <span class='fluo'>période de transition entre l'enfance et l'âge adulte.</span>,<br><br>Elle s'accompagne de nombreux changements physiques, psychologiques, émotionnels et sexuels."
     },
+    {
+      "titre": "Les transformations physiques",
+      "contenu": "(Développement des transformations physiques)"
+    },
+    {
+      "titre": "Les transformations hormonales",
+      "contenu": "(Développement des transformations hormonales)"
+    },
+    {
+      "titre": "Les transformations psychologiques et émotionnelles",
+      "contenu": "(Développement des transformations psychologiques et émotionnelles)"
+    }
+    ,
+    {
+      "titre": "Les transformations sexuelles",
+      "contenu": "(Développement des transformations sexuelles)"
+    }
+    ,
     {
       "titre": "En pratique<br>C'est comment le sexe féminin ?",
       "contenus": [
@@ -26,6 +36,21 @@
           "contenu": "<span class='a-savoir'>L'hymen est une membrane de muqueuse qui se trouve à l'entrée du vagin. Cette membrane est plus ou moins souple en fonction des femmes. Elle est perforée d'un orifice (ce qui permet l'écoulement des règles) dont la forme est variable.<br> Toutes les filles sont différentes : certaines n'ont pas d'hymen, d'autres ont un hymen tellement souple qu'il ne se rompt qu'à l'accouchement.</span><span class='a-savoir'>Le clitoris est un organe de la forme d'une double arche qui entoure le vagin ; son sommet, le gland, est sa seule partie visible.<br> Le clitoris est un organe érectile, exactement comme le pénis, dédié au plaisir : il se gonfle de sang sous l'effet de l'excitation sexuelle. Il joue un rôle fondamental dans le plaisir et l'orgasme féminin !</span>"
         }
       ]
+    } 
+    ,
+    {
+      "titre": "En pratique<br>C'est comment le sexe masculin ?",
+      "contenu": "(Développement de C'est comment le sexe masculin ?)"
+    }
+    ,
+    {
+      "titre": "La sexualité",
+      "contenu": "(Développement de la sexualité)"
+    }
+    ,
+    {
+      "titre": "Personnes - Lieux ressources",
+      "contenu": "(Développement de Personnes - Lieux ressources)"
     }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "titre": "Contraception (version build)",
+  "contenus": [
+    {
+      "titre": "DÉFINITION",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "LOIS",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "CONDITIONS DE DÉLIVRANCE",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "PERSONNES - LIEUX RESSOURCES",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "Les moyens de contraception",
+      "contenus": [
+        {
+          "titre": "Définition",
+          "contenu": "(dev de l’orientation affective et sexuelle)"
+        },
+        {
+          "titre": "En pratique",
+          "contenu": "(dev de En pratique)"
+        },
+        {
+          "titre": "La pilule",
+          "contenu": "(dev de La pilule)"
+        },
+        {
+          "titre": "L’implant",
+          "contenu": "(dev de L’implant)"
+        },
+        {
+          "titre": "Le dispositif intra utérin",
+          "contenu": "(dev du dispositif intra utérin)"
+        },
+        {
+          "titre": "L’anneau vaginal",
+          "contenu": "(dev de l'anneau vaginal)"
+        },
+        {
+          "titre": "Le patch",
+          "contenu": "(dev du patch)"
+        },
+        {
+          "titre": "Le préservatif",
+          "contenu": "(dev du préservatif)"
+        },
+        {
+          "titre": "L’efficacité «réelle»",
+          "contenu": "(dev de l’efficacité «réelle»)"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "titre": "IST - VIH / SIDA (version build)",
+  "contenus": [
+    {
+      "titre": "Définition",
+      "contenus": [
+        {
+          "titre": "Lois",
+          "contenu": "(dev des lois)"
+        },
+        {
+          "titre": "Les différentes IST",
+          "contenu": "(dev des différentes IST)"
+        },
+        {
+          "titre": "Les modes de transmission",
+          "contenu": "(dev des modes de transmission)"
+        },
+        {
+          "titre": "Le dépistage",
+          "contenu": "(dev du dépistage)"
+        }
+      ]
+    },
+    {
+      "titre": "LIEUX RESSOURCES",
+      "contenu": "(à definir...)"
+    }
+  ]
+}

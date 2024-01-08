@@ -1,0 +1,38 @@
+{
+  "titre": "Contraception d'urgence (version build)",
+  "contenus": [
+    {
+      "titre": "DÉFINITION",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "MÉTHODES POSSIBLES",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "EN PRATIQUE",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "PERSONNES - LIEUX RESSOURCES",
+      "contenu": "(à definir...)"
+    },
+    {
+      "titre": "LA CONTRACEPTION D'URGENCE HORMONALE",
+      "contenus": [
+        {
+          "titre": "Conditions de délivrance",
+          "contenu": "(dev des conditions de délivrance)"
+        },
+        {
+          "titre": "Comment savoir si la contraception d’urgence a été efficace ?",
+          "contenu": "(dev de comment savoir si la contraception d’urgence a été efficace ?)"
+        }
+      ]
+    },
+    {
+      "titre": "LA CONTRACEPTION D’URGENCE INTRA UTÉRINE",
+      "contenu": "(à definir...)"
+    }
+  ]
+}

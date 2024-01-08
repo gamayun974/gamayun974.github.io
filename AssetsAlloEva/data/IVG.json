@@ -1,0 +1,27 @@
+
+{
+  "titre": "IVG (version build)",
+  "contenus": [
+    {
+      "titre": "Définition",
+      "contenu": "(developpement de definition)"
+    },
+    {
+      "titre": "Lois",
+      "contenu": "(Développement des lois)"
+    },
+    {
+      "titre": "Délais et méthodes",
+      "contenu": "(Développement des Délais et méthodes)"
+    },
+    {
+      "titre": "En pratique",
+      "contenu": "(Développement de en pratique)"
+    }
+    ,
+    {
+      "titre": "Personnes ressources",
+      "contenu": "(Développement de Personnes ressources)"
+    }
+  ]
+}
