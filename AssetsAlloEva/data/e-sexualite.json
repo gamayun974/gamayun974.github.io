@@ -2,13 +2,6 @@
 {
   "titre": "E-SEXUALITÉ (titre du canvas)",
   "contenus": [
-    {
-      "titre": "Définition",
-      "contenu": "(developpement de definition)"
-    },
-    {
-      "titre": "canvas à 2 items",
-      "contenus": [
         {
           "titre": "item0.0",
           "contenu": "(description de l'item0.0)"
@@ -17,7 +10,5 @@
           "titre": "item0.1",
           "contenu": "(description de l'item0.1)"
         }
-      ]
-    }
   ]
 }
