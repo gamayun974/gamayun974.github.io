@@ -16,7 +16,16 @@
     },
     {
       "titre": "Les différents réseaux sociaux",
-      "contenu": "(Développement des différents réseaux sociaux)"
+      "contenus": [
+        {
+          "titre": "item0.0",
+          "contenus": "(description de l'item0.0)"
+        },
+        {
+          "titre": "item0.1",
+          "contenus": "(description de l'item0.1)"
+        }
+      ]
     }
     ,
     {
