@@ -7,8 +7,16 @@
           "contenu": "description de l'item0.0"
         },
         {
-          "titre": "item0.1",
-          "contenu": "description de l'item0.1"
+          "titre": "item0.1[]",
+          "contenus": [
+            {
+              "titre": "item0.1[0]",
+              "contenu": "description de l'item0.1[0]"
+            },
+            {
+              "titre": "item0.1[1]",
+              "contenu": "description de l'item0.1[1]"
+            }          ]
         },
         {
           "titre": "item0.2",
