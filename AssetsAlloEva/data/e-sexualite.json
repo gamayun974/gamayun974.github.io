@@ -3,24 +3,24 @@
   "titre": "Canvas 0",
   "contenus": [
         {
-          "titre": "item0.0",
-          "contenu": "description de l'item0.0"
+          "titre": "item1",
+          "contenu": "description de l'item1"
         },
         {
-          "titre": "item0.1[]",
+          "titre": "item2[]",
           "contenus": [
             {
-              "titre": "item0.1[0]",
-              "contenu": "description de l'item0.1[0]"
+              "titre": "item2[0]",
+              "contenu": "description de l'item2[0]"
             },
             {
-              "titre": "item0.1[1]",
-              "contenu": "description de l'item0.1[1]"
+              "titre": "item2[1]",
+              "contenu": "description de l'item2[1]"
             }          ]
         },
         {
-          "titre": "item0.2",
-          "contenu": "description de l'item0.2"
+          "titre": "item3",
+          "contenu": "description de l'item3"
         }
   ]
 }
