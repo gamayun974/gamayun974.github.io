@@ -7,14 +7,6 @@
       "contenu": "(developpement de definition)"
     },
     {
-      "titre": "Les risques",
-      "contenu": "(Développement des risques)"
-    },
-    {
-      "titre": "La prévention",
-      "contenu": "(Développement de la prévention)"
-    },
-    {
       "titre": "Les différents réseaux sociaux",
       "contenus": [
         {
@@ -26,11 +18,6 @@
           "contenu": "(description de l'item0.1)"
         }
       ]
-    }
-    ,
-    {
-      "titre": "Personnes - Lieux ressources",
-      "contenu": "(Développement de Personnes - Lieux ressources)"
     }
   ]
 }
