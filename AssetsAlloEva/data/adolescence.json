@@ -47,19 +47,19 @@
               "contenus": [
                 {
                   "titre": "C’EST QUOI LE CYCLE MENSTRUEL ?",
-                  "contenus": "<span class='a-savoir'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
+                  "contenu": "<span class='a-savoir'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
                 },
                 {
                   "titre": "LA PHASE FOLLICULAIRE :",
-                  "contenus": "<span class='a-savoir'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
+                  "contenu": "<span class='a-savoir'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
                 },
                 {
                   "titre": "L’OVULATION :",
-                  "contenus": "c’est la <span class='a-savoir'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé : <br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence. <br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
+                  "contenu": "c’est la <span class='a-savoir'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé : <br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence. <br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
                 }  ,
                 {
                   "titre": "LA PHASE LUTÉALE : ",
-                  "contenus": "<span class='a-savoir'>après l’ovulation, la progestérone prend le relais </span>; elle prépare l’utérus à l’implantation de l’œuf fécondé."
+                  "contenu": "<span class='a-savoir'>après l’ovulation, la progestérone prend le relais </span>; elle prépare l’utérus à l’implantation de l’œuf fécondé."
                 }              
               ]
             }
