@@ -41,6 +41,27 @@
             {
               "titre": "Les pertes blanches",
               "contenu": "Les pertes blanches ou pertes vaginales sont <span class='fluo'>des écoulements naturels du vagin.</span>De couleur blanchâtre ou translucide et à la texture gluante, les pertes blanches surviennent tout au long de la vie hormonale d’une femme, précédant l’arrivée des règles jusqu’à la ménopause. Elles signifient que les organes génitaux fonctionnent correctement.<img src='img/pertes-blanches.png' alt='Pertes blanches' />"
+            },
+            {
+              "titre": "C'est quoi le cycle menstruel ?",
+              "contenus": [
+                {
+                  "titre": "C’EST QUOI LE CYCLE MENSTRUEL ?",
+                  "contenu": "<span class='a-savoir'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
+                },
+                {
+                  "titre": "LA PHASE FOLLICULAIRE :",
+                  "contenu": "<span class='a-savoir'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
+                },
+                {
+                  "titre": "L’OVULATION :",
+                  "contenu": "c’est la <span class='a-savoir'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé : <br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence. <br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
+                }  ,
+                {
+                  "titre": "LA PHASE LUTÉALE : ",
+                  "contenu": "<span class='a-savoir'>après l’ovulation, la progestérone prend le relais </span>; elle prépare l’utérus à l’implantation de l’œuf fécondé."
+                }              
+              ]
             }
           ]
         },
