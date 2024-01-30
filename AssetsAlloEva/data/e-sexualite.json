@@ -1,14 +1,14 @@
 
 {
-  "titre": "E-SEXUALITÉ (titre du canvas)",
+  "titre": "CANVAS 0",
   "contenus": [
         {
           "titre": "item0.0",
-          "contenu": "(description de l'item0.0)"
+          "contenu": "description de l'item0.0"
         },
         {
           "titre": "item0.1",
-          "contenu": "(description de l'item0.1)"
+          "contenu": "description de l'item0.1"
         }
   ]
 }
