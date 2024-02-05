@@ -24,8 +24,25 @@
               "contenu": "description de l'item2[1][1]"
             },
             {
-              "titre": "item2[1][2]",
-              "contenu": "description de l'iitem2[1][2]"
+              "titre": "item2[1][2][]",
+              "contenus": [
+                {
+                  "titre": "item2[1][2][0]",
+                  "contenu": "description de l'item2[1][2][0]"
+                },
+                {
+                  "titre": "item2[1][2][1]",
+                  "contenu": "description de l'item2[1][2][1]"
+                },
+                {
+                  "titre": "item2[1][2][2]",
+                  "contenu": "description de l'iitem2[1][2][2]"
+                },
+                {
+                  "titre": "item2[1][2][3]",
+                  "contenu": "description de l'iitem2[1][2][3]"
+                }
+              ]
             },
             {
               "titre": "item2[1][3]",
