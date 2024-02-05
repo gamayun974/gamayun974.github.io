@@ -1,4 +1,3 @@
-
 {
   "titre": "Le corps à l’adolescence (version DISTANTE)",
   "contenus": [
@@ -17,74 +16,64 @@
     {
       "titre": "Les transformations psychologiques et émotionnelles",
       "contenu": "L’adolescence est aussi un moment de la vie rempli de transformations émotionnelles et psychologiques aussi importantes que celles qui sont d’ordre physique.<br><span class='fluo'>Les adolescents se questionnent sur leur identité et ressentent un besoin grandissant d’indépendance.</span> Il s’agit également d’une période de confusion où le jeune oscille entre son désir d’autonomie et celui d’être encore dépendant de ses parents.<br>Les amitiés prennent également une plus grande importance. La pression des pairs augmente et des changements comportementaux se produisent, créant parfois des conflits entre le jeune et ses parents.<br>Rempli d’insouciance, se sentant invulnérable, <span class='fluo'>l’adolescent recherche les nouvelles expériences et peut parfois s’exposer à des situations dangereuses ou néfastes pour son bien-être ou sa santé :</span> usage de la cigarette, d’alcool ou de drogues, conduite automobile ou comportements sexuels à risques, etc."
-    }
-    ,
+    },
     {
       "titre": "Les transformations sexuelles",
       "contenu": "L’adolescence est la période des premières expériences amoureuses et/ou sexuelles. Les changements hormonaux et physiques que vivent les adolescents les rendent davantage conscients de leur sexualité."
-    }
-    ,
+    },
     {
       "titre": "En pratique<br>C'est comment le sexe féminin ?",
       "contenus": [
         {
-          "titre": "Description",
+          "titre": "Les organes génitaux externes féminins",
+          "contenu": "Les organes génitaux externes féminins sont constitués du <span class='fluo'>mont de Vénus, des grandes lèvres, des petites lèvres, des glandes de Bartholin et du clitoris.</span> La région qui contient ces organes est appelée <span class='fluo'>vulve</span>.<br><br> <strong>Les organes génitaux externes jouent 3 rôles principaux :</strong> <ul><li> protéger les organes génitaux internes des agents infectieux,</li><li> permettre le plaisir sexuel,</li><li> permettre aux spermatozoïdes de rejoindre l'ovule.</li></ul><br><img src='img/adolescence-1.png' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+        },
+        {
+          "titre": "Les organes génitaux internes féminins",
+          "contenu": "Les organes génitaux internes comprennent :<br>• <span class='a-savoir'>le vagin</span> situé entre la vulve et le col de l’utérus : c’est la voie de passage pour les menstruations, les sécrétions vaginales, le pénis lors d’un rapport sexuel.<br>• <span class='a-savoir'>le col de l’utérus</span> : il relie le vagin à l’utérus. Il sécrète la glaire cervicale qui facilite la montée des spermatozoïdes vers l’utérus.<br>• <span class='a-savoir'>l’utérus</span> : organe musculaire en forme de poire qui permet la gestation (porter un bébé). L’utérus est tapissé d’une muqueuse souple qui, en l’absence de fécondation, part en saignements : ce sont les menstruations ou règles.<br>• <span class='a-savoir'>les ovaires</span> : ce sont deux glandes situées aux extrémités de chaque trompe de Fallope. Ils produisent les hormones sexuelles féminines (œstrogène et progestérone) au cours du cycle ovulatoire.<br>• <span class='a-savoir'>les trompes de Fallope</span> : ce sont deux conduits qui relient les ovaires à l’utérus.<br><img src='img/adolescence-2.png' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+        },
+        {
+          "titre": "Les pertes blanches",
+          "contenu": "Les pertes blanches ou pertes vaginales sont <span class='fluo'>des écoulements naturels du vagin.</span>De couleur blanchâtre ou translucide et à la texture gluante, les pertes blanches surviennent tout au long de la vie hormonale d’une femme, précédant l’arrivée des règles jusqu’à la ménopause. Elles signifient que les organes génitaux fonctionnent correctement.<img src='img/pertes-blanches.png' alt='Pertes blanches' />"
+        },
+        {
+          "titre": "C'est quoi le cycle menstruel ?",
           "contenus": [
             {
-              "titre": "Les organes génitaux externes féminins",
-              "contenu": "Les organes génitaux externes féminins sont constitués du <span class='fluo'>mont de Vénus, des grandes lèvres, des petites lèvres, des glandes de Bartholin et du clitoris.</span> La région qui contient ces organes est appelée <span class='fluo'>vulve</span>.<br><br> <strong>Les organes génitaux externes jouent 3 rôles principaux :</strong> <ul><li> protéger les organes génitaux internes des agents infectieux,</li><li> permettre le plaisir sexuel,</li><li> permettre aux spermatozoïdes de rejoindre l'ovule.</li></ul><br><img src='img/adolescence-1.png' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+              "titre": "C’EST QUOI LE CYCLE MENSTRUEL ?",
+              "contenu": "<span class='a-savoir'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
             },
             {
-              "titre": "Les organes génitaux internes féminins",
-              "contenu": "Les organes génitaux internes comprennent :<br>• <span class='a-savoir'>le vagin</span> situé entre la vulve et le col de l’utérus : c’est la voie de passage pour les menstruations, les sécrétions vaginales, le pénis lors d’un rapport sexuel.<br>• <span class='a-savoir'>le col de l’utérus</span> : il relie le vagin à l’utérus. Il sécrète la glaire cervicale qui facilite la montée des spermatozoïdes vers l’utérus.<br>• <span class='a-savoir'>l’utérus</span> : organe musculaire en forme de poire qui permet la gestation (porter un bébé). L’utérus est tapissé d’une muqueuse souple qui, en l’absence de fécondation, part en saignements : ce sont les menstruations ou règles.<br>• <span class='a-savoir'>les ovaires</span> : ce sont deux glandes situées aux extrémités de chaque trompe de Fallope. Ils produisent les hormones sexuelles féminines (œstrogène et progestérone) au cours du cycle ovulatoire.<br>• <span class='a-savoir'>les trompes de Fallope</span> : ce sont deux conduits qui relient les ovaires à l’utérus.<br><img src='img/adolescence-2.png' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+              "titre": "LA PHASE FOLLICULAIRE :",
+              "contenu": "<span class='a-savoir'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
             },
             {
-              "titre": "Les pertes blanches",
-              "contenu": "Les pertes blanches ou pertes vaginales sont <span class='fluo'>des écoulements naturels du vagin.</span>De couleur blanchâtre ou translucide et à la texture gluante, les pertes blanches surviennent tout au long de la vie hormonale d’une femme, précédant l’arrivée des règles jusqu’à la ménopause. Elles signifient que les organes génitaux fonctionnent correctement.<img src='img/pertes-blanches.png' alt='Pertes blanches' />"
+              "titre": "L’OVULATION :",
+              "contenu": "c’est la <span class='a-savoir'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé : <br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence. <br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
             },
             {
-              "titre": "C'est quoi le cycle menstruel ?",
-              "contenus": [
-                {
-                  "titre": "C’EST QUOI LE CYCLE MENSTRUEL ?",
-                  "contenu": "<span class='a-savoir'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
-                },
-                {
-                  "titre": "LA PHASE FOLLICULAIRE :",
-                  "contenu": "<span class='a-savoir'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
-                },
-                {
-                  "titre": "L’OVULATION :",
-                  "contenu": "c’est la <span class='a-savoir'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé : <br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence. <br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
-                }  ,
-                {
-                  "titre": "LA PHASE LUTÉALE : ",
-                  "contenu": "<span class='a-savoir'>après l’ovulation, la progestérone prend le relais </span>; elle prépare l’utérus à l’implantation de l’œuf fécondé."
-                }              
-              ]
+              "titre": "LA PHASE LUTÉALE : ",
+              "contenu": "<span class='a-savoir'>après l’ovulation, la progestérone prend le relais </span>; elle prépare l’utérus à l’implantation de l’œuf fécondé."
+            },
+            {
+              "titre": "A savoir",
+              "contenu": "<span class='a-savoir'>L'hymen</span> est <span class='a-savoir'>une membrane de muqueuse qui se trouve à l'entrée du vagin.</span> Cette membrane est plus ou moins souple en fonction des femmes. Elle est perforée d'un orifice (ce qui permet l'écoulement des règles) dont la forme est variable.<br> Toutes les filles sont différentes : certaines n'ont pas d'hymen, d'autres ont un hymen tellement souple qu'il ne se rompt qu'à l'accouchement.</span><span class='a-savoir'>Le clitoris</span> est un organe de la forme d'une double arche qui entoure le vagin ; son sommet, le gland, est sa seule partie visible.<br><br>Le clitoris est un organe érectile, exactement comme le pénis, dédié au plaisir : il se gonfle de sang sous l'effet de l'excitation sexuelle. Il joue un rôle fondamental dans le plaisir et l'orgasme féminin !</span>"
             }
           ]
         },
         {
-          "titre": "A savoir",
-          "contenu": "<span class='a-savoir'>L'hymen</span> est <span class='a-savoir'>une membrane de muqueuse qui se trouve à l'entrée du vagin.</span> Cette membrane est plus ou moins souple en fonction des femmes. Elle est perforée d'un orifice (ce qui permet l'écoulement des règles) dont la forme est variable.<br> Toutes les filles sont différentes : certaines n'ont pas d'hymen, d'autres ont un hymen tellement souple qu'il ne se rompt qu'à l'accouchement.</span><span class='a-savoir'>Le clitoris</span> est un organe de la forme d'une double arche qui entoure le vagin ; son sommet, le gland, est sa seule partie visible.<br><br>Le clitoris est un organe érectile, exactement comme le pénis, dédié au plaisir : il se gonfle de sang sous l'effet de l'excitation sexuelle. Il joue un rôle fondamental dans le plaisir et l'orgasme féminin !</span>"
+          "titre": "En pratique<br>C'est comment le sexe masculin ?",
+          "contenu": "(Développement de C'est comment le sexe masculin ?)"
+        },
+        {
+          "titre": "La sexualité",
+          "contenu": "(Développement de la sexualité)"
+        },
+        {
+          "titre": "Personnes - Lieux ressources",
+          "contenu": "(Développement de Personnes - Lieux ressources)"
         }
       ]
-    } 
-    ,
-    {
-      "titre": "En pratique<br>C'est comment le sexe masculin ?",
-      "contenu": "(Développement de C'est comment le sexe masculin ?)"
-    }
-    ,
-    {
-      "titre": "La sexualité",
-      "contenu": "(Développement de la sexualité)"
-    }
-    ,
-    {
-      "titre": "Personnes - Lieux ressources",
-      "contenu": "(Développement de Personnes - Lieux ressources)"
     }
   ]
 }
