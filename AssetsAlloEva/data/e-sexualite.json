@@ -3,7 +3,7 @@
   "contenus": [
     {
       "titre": "item1",
-      "contenu": "description de l'item1"
+      "contenu": "description de l'item1, pour le moment, test de video<vid src='vid/testVid.mp4' alt='Juste une vidéo...' />"
     },
     {
       "titre": "item2[]",
