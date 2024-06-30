@@ -1,63 +1,180 @@
 {
-  "titre": "Contraception (version DISTANTE 3)",
+  "titre": "Contraception",
   "contenus": [
     {
       "titre": "DÉFINITION",
-      "contenu": "(à definir...)"
+      "contenu": "La contraception regroupe <span class='fluo'>tous les moyens temporaires et réversibles pour éviter une grossesse.</span> Le contraceptif est un objet ou une substance dont le but est d’empêcher une grossesse. "
     },
+    {
+      "titre": "Différents types de contraceptifs existent:",
+      "contenu": "<b>• ceux qui bloquent l’ovulation,</b> comme la pilule, l’implant, l’anneau vaginal ou le patch contraceptif.<br><br><b>• ceux qui empêchent la rencontre des spermatozoïdes avec l’ovule,</b> comme le préservatif, le dispositif intra-utérin, encore appelé stérilet, le diaphragme ou les spermicides. "
+    },
+
     {
       "titre": "LOIS",
-      "contenu": "(à definir...)"
+      "contenu": "<b>Selon le code de Santé Publique</b><br><br> • Droit pour toute personne d’être informée sur l’ensemble des méthodes contraceptives et d’en choisir une librement ; <br><br>• En application de l’article L. 5134-1 du code de la santé publique, <b>la jeune fille mineure n’a pas obligation d’obtenir le consentement de ses parents pour la prescription, la délivrance ou l’administration de contraceptifs.</b> Dans chacune de ces situations, les professionnels de santé sont tenus au secret médical."
     },
     {
-      "titre": "CONDITIONS DE DÉLIVRANCE",
-      "contenu": "(à definir...)"
+      "titre": "CONDITIONS DE DÉLIVRANCE<br>(en particulier pour les mineures)",
+      "contenu": "• La pilule, l’implant et le DIU sont prescrits, posés et retirés par un médecin ou une sage-femme. Ces méthodes sont quasiment toutes remboursées par l’Assurance Maladie,<br><br>• L’anneau vaginal et le patch contraceptif sont prescrits par un médecin ou une sage-femme, mais non remboursés.<br><br><b>Contraception à éviter : cape cervicale, diaphragme, spermicides car leur utilisation n’est pas adaptée aux adolescents.</b>"
     },
     {
-      "titre": "PERSONNES - LIEUX RESSOURCES",
-      "contenu": "(à definir...)"
+      "titre": "La bonne contraception est celle qui est choisie par la personne et lui est adaptée. Pour toute prescription d’un mode de contraception, il est nécessaire de s’adresser à un médecin ou une sage-femme :",
+      "contenu": "• Si la jeune fille le demande, il ne sera pas fait mention de cette délivrance sur les relevés de remboursement de l’Assurance Maladie <b>(parcours anonyme et gratuit)</b>,<br><br>• Depuis janvier 2022 l’Assurance Maladie <b>prend en charge à 100% et sans avance de frais la contraception</b> et les actes qui y sont liés <b>pour toutes les femmes de moins de 26 ans.</b>"
     },
     {
-      "titre": "Les moyens de contraception",
+      "titre": "DÉFINITION",
+      "contenu": "Méthode composée d’hormones (progestérone et/ou œstrogène) qui sont diffusées lentement dans le sang. "
+    },
+    {
+      "titre": "EN PRATIQUE",
+      "contenu": "Les <b>contraceptifs hormonaux</b> agissent de différentes façons : en bloquant l’ovulation, en modifiant l’endomètre (muqueuse qui tapisse l’utérus) et/ou en modifiant la glaire cervicale (sécrétion qui permet le passage des spermatozoïdes à travers le col de l’utérus durant la période d’ovulation)."
+    },
+
+    {
+      "titre": "LES DIFFÉRENTS MOYENS<br>DE CONTRACEPTION",
       "contenus": [
         {
-          "titre": "Définition",
-          "contenu": "(dev de l’orientation affective et sexuelle)"
+          "titre": "LA PILULE CONTRACEPTIVE",
+          "contenu": "<b></b>"
         },
         {
-          "titre": "En pratique",
-          "contenu": "(dev de En pratique)"
+          "titre": "L’IMPLANT CONTRACEPTIF",
+          "contenu": "<b></b>"
         },
         {
-          "titre": "La pilule",
-          "contenu": "(dev de La pilule)"
+          "titre": "LE DISPOSITIF INTRA UTERIN",
+          "contenu": "<b></b>"
         },
         {
-          "titre": "L’implant",
-          "contenu": "(dev de L’implant)"
+          "titre": "L’ANNEAU VAGINAL",
+          "contenu": "<b></b>"
         },
         {
-          "titre": "Le dispositif intra utérin",
-          "contenu": "(dev du dispositif intra utérin)"
+          "titre": "LE PATCH CONTRACEPTIF",
+          "contenu": "<b></b>"
         },
         {
-          "titre": "L’anneau vaginal",
-          "contenu": "(dev de l'anneau vaginal)"
+          "titre": "",
+          "contenu": "<asavoir>Les contraceptions hormonales ne sont pas une protection contre les infections sexuellement transmissibles et le VIH !</asavoir>"
         },
         {
-          "titre": "Le patch",
-          "contenu": "(dev du patch)"
+          "titre": "",
+          "contenu": "<img src='img/3Pilules' alt='Photo d'une plaquette de pilules' />"
         },
         {
-          "titre": "Le préservatif",
-          "contenu": "(dev du préservatif)"
+          "titre": "LA PILULE",
+          "contenu": "Comprimés qui contiennent des hormones (progestérone ou oetrogène+progestérone) à prendre quotidiennement, à heure fixe. Il existe différents types de pilule avec une composition hormonale particulière et un dosage variable. Le dosage œstrogène-progestérone varie selon la pilule prescrite."
         },
         {
-          "titre": "L’efficacité «réelle»",
-          "contenu": "(dev de l’efficacité «réelle»)"
+          "titre": "Les deux modes de prises :",
+          "contenu": "<b>• plaquette de 21 comprimés :</b> 1 comprimé à prendre tous les jours, à heure régulière. Arrêt de 7 jours, puis recommencer une nouvelle plaquette. <br><br><b>• plaquette 28 comprimés :</b> 1 comprimé à prendre tous les jours, à heure régulière et en continu sans interruption entre les plaquettes."
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleFushiaLeft><size=150><sprite=0></size>Que faire en cas d’oubli ?</bubbleFushiaLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>• De moins de 12 heures:</b> prendre le comprimé oublié immédiatement et continuer sa plaquette normalement (même si 2 comprimés doivent être pris le même jour) <br><b>• De plus de 12 heures:</b> prendre le comprimé oublié immédiatement, continuer la plaquette et associer une contraception barrière (préservatif) jusqu’à la fin du cycle.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>En cas de rapport sexuel non protégé les jours suivants l’oubli de pilule, prendre une contraception d’urgence et faire un dépistage des IST.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Si les règles n’apparaissent pas à la fin du cycle, faire un test de grossesse (urinaire ou prise de sang).</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3Implant' alt='Photo d'un implant' />"
+        },
+        {
+          "titre": "L’IMPLANT",
+          "contenu": "Petit bâtonnet cylindrique souple de 4 cm, inséré sous la peau du bras sous anesthésie locale par un médecin ou une sage-femme.<br>L’implant peut être laissé en place jusqu’à 3 ans.<br>Il diffuse de la progestérone. "
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight>Irrégularité, voire absence de règles</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight>Accessibilité facile aux mineures, sa délivrance est gratuite et confidentielle</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight>Une contraception discrète, efficace sans avoir à y penser</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3Implant2' alt='Photo d'un DIU' />"
+        },
+        {
+          "titre": "LE DISPOSITIF INTRA UTÉRIN",
+          "contenu": "<b>Le DIU ou dispositif intra utérin est un moyen de contraception inséré dans l’utérus (la femme ne le sent pas du tout).</b> <br>Il est souvent en forme de T, se termine par un fil qui est coupé court au niveau du col de l’utérus par la sage-femme ou le médecin qui le pose : généralement ce fil n’est pas ressenti par le partenaire."
+        },
+        {
+          "titre": "Il existe deux types de DIU:",
+          "contenu": " <b>• le DIU en cuivre :</b> le cuivre est toxique pour les spermatozoïdes. Il est efficace dès la pose et peut être utilisé en contraception d’urgence (à poser les 5 jours suivants un rapport sexuel à risque). <br><br><b>• le DIU hormonal :</b> il contient une hormone progestative qui est délivrée en très petite quantité. Ce DIU épaissit les sécrétions du col de l’utérus et empêche les spermatozoïdes de passer.<br><br>C’est une méthode efficace, sans avoir à y penser.<br><br>Le DIU a une longue durée d’action (3 à 8 ans). Il peut être retiré à tout moment par un professionnel de santé.<br><br>Le DIU est remboursé partiellement par l’Assurance Maladie. Pour les femmes de moins de 26 ans, la prise en charge est complète."
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir>Le DIU peut être posé à toutes les femmes : même à celles qui n’ont pas encore eu d’enfant, et même aux jeunes filles. <br>Un DIU est anciennement appelé stérilet mais il ne rend pas stérile!</asavoir>"
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3AnneauVaginal' alt='Photo d'un Anneau Vaginal' />"
+        },
+        {
+          "titre": "L’ANNEAU VAGINAL",
+          "contenu": "C’est un anneau flexible en plastique qui contient une association d’hormones (oestrogènes + progestérone) diffusées en continu (3 semaines sur 4). <br><br>Ce dispositif bloque l’ovulation et modifie la glaire cervicale. <br><br>Il est inséré manuellement au fond du vagin par la femme : <br>• 1 anneau à insérer et garder pendant 3 semaines <br>• 7 jours sans anneau : apparition des règles<br>• Pose d’un nouvel anneau pour 3 semaines <br>• Prescrit par le médecin ou la sage-femme <br>• Non remboursé<br><br>Méthode qui demande une bonne connaissance de son anatomie et nécessite d’être à l’aise avec son corps."
+        },
+        {
+          "titre": "Que faire en cas d’expulsion de l’anneau?",
+          "contenu": "<b>• moins de 3 heures hors du vagin :</b> le rincer et le repositionner (pas de risque de grossesse) <br><br><b>• plus de 3 heures hors du vagin :</b> protéger les rapports sexuels par une méthode barrière (préservatif)"
+        },
+        {
+          "titre": "SI RAPPORT SEXUEL NON PROTÉGÉ DANS LES 5 JOURS PRÉCÉDENTS : RISQUE DE GROSSESSE",
+          "contenu": "<img src='img/3PoseAnneau' alt='Pose d'un Anneau Vaginal' />"
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3LePatch' alt='Photo d'un Patch' />"
+        },
+        {
+          "titre": "LE PATCH",
+          "contenu": "Timbre de 20 cm, contenant de la progestérone, à poser le premier jour des règles sur le ventre, les épaules ou le bas du dos. <br><br>• un patch collé chaque semaine pendant 3 semaines consécutives <br><br>• 7 jours sans patch : apparition des règles <br><br>• pose d’un nouveau patch par semaine pendant 3 semaines <br><br><br><br><b>Si décollement, repositionner un autre le plus rapidement possible dans les 24 heures</b> (si dépassement, suivre modalités « oubli pilule »)."
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3Preservatif' alt='Photo d'un Preservatif' />"
+        },
+        {
+          "titre": "LE Preservatif",
+          "contenu": "C’est une enveloppe fine et souple à glisser sur le pénis en érection (préservatif externe) ou une gaine souple munie d’un anneau à chaque extrémité à placer dans le vagin (préservatif interne) <b>Ils permettent de se protéger des Infections Sexuellement Transmissibles</b> et éventuellement des grossesses non désirées (s’il est associé à un autre moyen contraception). Son efficacité dépend de sa bonne utilisation. <br><br>On distingue : <br>• Le préservatif externe ou préservatif masculin appelé plus communément capote, condom, <br>• Le préservatif interne ou préservatif féminin (introduit dans le vagin avant le rapport) <br><br><b>Les préservatifs sont à utiliser lors de tout rapport sexuel : buccal, vaginal, anal.</b><br><br>Certains préservatifs internes ou externes peuvent être remboursés sur prescription médicale, sinon gratuitement dans les centres de prévention (CeGIDD, CPF, association Planning Familial ou autre association de prévention), les infirmeries scolaires et services universitaires et gratuitement dans toutes les pharmacies pour les jeunes de moins de 26 ans..."
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir>Pour les moins de 26 ans, les préservatifs internes (féminins) et externes (masculins) sont gratuits en pharmacie ! Pour les femmes et les hommes de plus de 26 ans, ils sont remboursés sur présentation d’une ordonnance ! N’hésitez pas à demander à votre professionnel de santé (médecin, sage-femme).</asavoir>"
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3PreservatifInterne' alt='Photo d'un Preservatif Interbe' />"
+        },
+        {
+          "titre": "",
+          "contenu": "<i>Preservatif Interne</i>"
+        },
+        {
+          "titre": "<br>Méthodes contraceptives en fonction de leur efficacité pratique (et non l’efficacité théorique)",
+          "contenu": "Taux d’échec en % (Grossesses par année d’utilisation réelle selon l’OMS, 2016)"
+        },
+        {
+          "titre": "",
+          "contenu": "<img src='img/3Efficacite' alt='Graphe d' efficacité' />"
         }
       ]
     }
   ]
 }
-

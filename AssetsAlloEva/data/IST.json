@@ -1,30 +1,123 @@
 {
-  "titre": "IST - VIH / SIDA (version DISTANTE)",
+  "titre": "IST - VIH / SIDA",
   "contenus": [
     {
       "titre": "Définition",
       "contenus": [
         {
-          "titre": "Lois",
-          "contenu": "(dev des lois)"
+          "titre": "",
+          "contenu": "Les <span class='fluo'>Infections Sexuellement Transmissibles</span> (I.S.T), anciennement appelées Maladies Sexuellement Transmissibles (M.S.T) <span class='fluo'>sont des infections se transmettant principalement par rapport sexuel non protégé.</span> Elles sont provoquées par des microbes (virus, bactéries,…) et sont souvent asymptomatiques. En effet souvent les IST ne sont pas visibles ou les symptômes sont très discrets. D’où la nécessité de se protéger avec des préservatifs pour tout rapport sexuel !"
+        },
+        {
+          "titre": "LOIS<br>Selon le code de la Santé Publique",
+          "contenu": "Le dépistage des IST peut se faire de façon gratuite et anonyme. Le consentement des titulaires de l’autorité parentale est requis si l’on est mineur. Néanmoins, si le mineur souhaite garder le secret vis-à-vis de ses parents, il doit se faire accompagner d’un majeur de son choix."
         },
         {
           "titre": "Les différentes IST",
-          "contenu": "(dev des différentes IST)"
+          "contenu": "<img src='img/2DiiferentesIST' alt='Les différentes IST' />"
         },
         {
-          "titre": "Les modes de transmission",
-          "contenu": "(dev des modes de transmission)"
+          "titre": "LES I.S.T TRANSMISES PAR DES BACTÉRIES, ET PARASITES",
+          "contenu": "<img src='img/2ISTBActParasites' alt='Les différentes IST par bacteries et parasites' />"
         },
         {
-          "titre": "Le dépistage",
-          "contenu": "(dev du dépistage)"
+          "titre": "",
+          "contenu": "<bubbleVertLeft><size=150><sprite=0></size>L’Hépatite C n’est pas considérée comme une IST puisqu’elle se transmet essentiellement lors des échanges sanguins. </bubbleVertLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Mais lors d’un rapport sexuel il peut y avoir aussi des échanges sanguins…</bubbleWhiteRight>"
+        },
+        {
+          "titre": "LES MODES DE TRANSMISSION :",
+          "contenu": "<br><b>• Les rapports sexuels :</b>contact entre les liquides sexuels (sécrétions vaginales, sperme, et liquide séminal) et les muqueuses lors des rapports vaginaux, anaux et buccaux non protégés. <br><b>• Le sang :</b> par contact avec le sang d’une autre personne (projection dans les yeux, la bouche), par blessure ou plaie et par partage de matériel (aiguilles ou seringues : consommation de drogues injectées ou sniffées, tatouage, piercing).<br><b>• De la mère à l’enfant :</b> lors de la grossesse (par le placenta), lors de l’accouchement ou lors de l’allaitement."
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir>Le préservatif (externe et interne) est le seul moyen de se protéger des IST car il évite les contacts avec les différents liquides sexuels et biologiques. Les jeunes (garçon ou fille) de moins de 26 ans peuvent se procurer en pharmacie des préservatifs GRATUITS !!! Et pour les plus de 26 ans, les préservatifs sont remboursés sur ordonnance ! Que vous soyez homme ou femme, demandez une ordonnance à un professionnel de santé (médecin, gynécologue, sage-femme).</asavoir>"
+        },
+        {
+          "titre": "LE DÉPISTAGE POUR TOUTES LES IST",
+          "contenu": "Le dépistage étant le seul moyen fiable de connaître son statut sérologique, il est recommandé de ne pas attendre l’apparition de symptômes pour se faire dépister. <span class='fluo'>Prévenez votre ou vos partenaires : le dépistage et le traitement simultané du ou des partenaires sont indispensables.</span><br><br> POUR LE DEPISTAGE DU VIH : tout dépend de la date de la prise de risque suspecté<br><b>1. Moins de 48h :</b> un Traitement Post Exposition (TPE) sera prescrit soit dans un CeGIDD ou via les urgences d’un centre hospitalier pour éviter une contamination par le VIH; un dépistage sérologique sera tout de même pratiqué. "
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir>Il est fortement recommandé de prendre ce traitement dans les 4 premières heures suivant la prise de risque.</asavoir>"
+        },
+        {
+          "titre": "",
+          "contenu": "<br><b>2. A partir de la 4ème semaine :</b> un dépistage sérologique (prise de sang) sera pratiqué et jugé fiable.<br><b>3. Au-delà des 2 mois :</b> un Test Rapide d’Orientation Diagnostique (TROD) par piqûre au bout du doigt pourra être proposé et jugé fiable.<br><b>POUR LES AUTRES IST</b><br> En fonction de la prise de risque, du délai et de l’IST, le dépistage peut nécessiter soit une prise de sang et/ou des prélèvements locaux."
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Le dépistage de l’infection à Chlamydiae est maintenant proposé systématiquement.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Prendre une contraception ne protège pas des IST !</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir>Une IST se transmet facilement, il n’y a pas toujours de signes visibles.</asavoir>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Une IST ne guérit pas seule : il est important de se faire soigner en prenant l’avis d’un professionnel de santé.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir>Mais une IST se traite avec le bon traitement !! N’utilisez pas de désinfectant, d’antibiotiques ou crèmes SANS AVIS MEDICAL !</asavoir>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Le traitement d’une IST n’est pas immunisant : ce n’est pas un vaccin…</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<asavoir> Une IST non soignée peut entraîner des complications et des séquelles.</asavoir>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Prévenez votre ou vos partenaires : un test de dépistage et/ou un traitement sont indispensables.</bubbleWhiteRight>"
         }
       ]
     },
     {
-      "titre": "LIEUX RESSOURCES",
-      "contenu": "(à definir...)"
+      "titre": "LIEUX RESSOURCES:<br>Où se faire dépister?",
+      "contenu": "<br><br>• En Centres Gratuits d’Information, de Dépistages et de Diagnostic (CeGIDD), pour toutes les I.S.T<br><br>• En laboratoire suite à une prescription médicale d’un médecin ou d’une sage-femme, pour toutes les I.S.T<br><br>• En association, uniquement pour le VIH/SIDA via le TROD <br><br><b>Découvrez la cartographie du dépistage anonyme et gratuit des IST (lien)</b>"
+    },
+    {
+      "titre": "GOMMER LES IDÉES REÇUES",
+      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>Une IST s’attrape sur la cuvette des toilettes</bubbleVertLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Les IST ne se transmettent que par rapport sexuel buccal, vaginal, anal ou par le sang. Les microbes responsables de ces maladies ne survivent que très peu de temps en dehors du corps humain qui les héberge et ne « sautent » pas d’un endroit à un autre.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>Une IST ne s’attrape que par le vagin.</bubbleVertLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Les IST se transmettent par rapport sexuel buccal, vaginal, anal ou par le sang</bubbleWhiteRight>"
+    },
+
+    {
+      "titre": "",
+      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>Quand une personne sent bon et est propre elle ne peut pas avoir ou transmettre une IST.</bubbleVertLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Une IST ne se voit pas forcément, et ne dépend pas de l’hygiène ou de la catégorie socio professionnelle d’une personne.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>J’ai fait un bilan sanguin donc je me suis fait(e) dépister aussi pour les IST.</bubbleVertLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Le dépistage des IST n’est pas systématique lors de toute prise de sang ; il doit être demandé par le patient ou proposé par le professionnel de santé.</bubbleWhiteRight>"
     }
   ]
 }

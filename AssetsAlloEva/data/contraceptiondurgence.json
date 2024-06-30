@@ -1,38 +1,98 @@
 {
-  "titre": "Contraception d'urgence (version DISTANTE)",
+  "titre": "Contraception d'urgence",
   "contenus": [
     {
       "titre": "DÉFINITION",
-      "contenu": "(à definir...)"
+      "contenu": "<b>La contraception d’urgence</b> <span class='fluo'>a pour but d’empêcher une fécondation après un rapport sexuel mal ou non protégé.</span> Il est recommandé de mettre en œuvre ces méthodes le plus rapidement possible après le rapport à risque (absence, oubli oudéfaut de contraception)."
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Il vaut mieux parler de contraception d’urgence et de rattrapage. Ne plus employer le terme « pilule du lendemain »</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/3contraceptionurgence' alt='Schéma contraception d'urgence' />"
     },
     {
       "titre": "MÉTHODES POSSIBLES",
-      "contenu": "(à definir...)"
+      "contenu": "Deux méthodes sont possibles et ont un mécanisme d’action différent : <br><br>1- Les <span class='fluo'>pilules contraceptives d’urgence</span> <b>(ou dites « pilule de rattrapage » ou « contraception d’urgence »)</b> qui permettent de bloquer ou de retarder l’ovulation. A prendre <span class='fluo'>le plus rapidement possible</span> dès constat du rapport sexuel à risque, dans les 3 à 5 jours maximum.<br><br>2- Les <span class='fluo'>dispositifs intra-utérins au cuivre</span> (DIU ou stérilets) empêchent : <br>> la fécondation par effet toxique sur les spermatozoïdes et l’ovule, <br>> et également l’implantation d’un ovule fécondé par un spermatozoïde en provoquant une inflammation de la muqueuse utérine, <br>> efficace si posé <span class='fluo'>dans les 5 jours</span> suivants le rapport à risque."
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>La pose d’un stérilet au cuivre est possible si vous n’avez jamais été enceinte. La plupart des femmes peuvent utiliser un DIU au cuivre comme contraception d’urgence, puis en contraception régulière. Contrairement à l’idée reçue, il n’est pas nécessaire d’avoir déjà eu des enfants pour pouvoir se faire poser un stérilet.</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>La « contraception d’urgence » n’arrête pas une grossesse déjà débutée : elle est inefficace une fois que l’œuf fécondé s’est fixé dans l’utérus et que la nidation a commencé. Dans ce cas, elle ne nuit pas à l’embryon endéveloppement.</asavoir>"
     },
     {
       "titre": "EN PRATIQUE",
-      "contenu": "(à definir...)"
+      "contenu": "QUAND UTILISER UNE CONTRACEPTION D’URGENCE ?<br><br>• Rapport sexuel mal ou non protégé à n’importe quel moment du cycle<br><br>• Rapport sexuel avec un préservatif déchiré, abîmé ou ayant glissé,<br><br>• Oubli de prise de pilule contraceptive habituelle<br><br>• Absence de contraception La contraception d’urgence ne doit être employée <span class='fluo'>qu’à titre exceptionnel</span> en cas de rapport sexuel non protégé ou d’échec de la méthode contraceptive utilisée.<br>L’idéal est d’avoir un moyen de contraception adapté.<br><br><b>La contraception hormonale d’urgence</b> <span class='fluo'>se présente sous la forme d’un seul comprimé à prendre le plus rapidement possible après un rapport sexuel non ou mal protégé,</span> et au plus tard: <br><br>• <span class='fluo'>dans les trois jours</span> pour la contraception au lévonorgestrel – NORLEVO® - (hormone progestative) <br><br>• <span class='fluo'>dans les cinq jours</span> pour la contraception à l’ulipristal acétate – ELLAONE® - (médicament empêchant l’action de la progestérone)."
     },
     {
-      "titre": "PERSONNES - LIEUX RESSOURCES",
-      "contenu": "(à definir...)"
+      "titre": "",
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Dans l’idéal, il vaut mieux toujours avoir une contraception d’urgence en avance ! comme une roue de secours en cas d’urgence…</bubbleTurquoiseLeft>"
     },
     {
-      "titre": "LA CONTRACEPTION D'URGENCE HORMONALE",
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Pour le Norlevo pour une prise au-delà 24H, l’efficacité diminue à 58%. </bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Attention l’efficacité est diminuée si surpoids ou obésité. Dans ce cas, la méthode d’urgence efficace est le DIU au cuivre.</bubbleTurquoiseLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Dans tous les cas, l’utilisation d’un préservatif jusqu’au retour des prochaines règles est obligatoire</bubbleWhiteRight>"
+    },
+    {
+      "titre": "CONDITIONS DE DÉLIVRANCE",
+      "contenu": "Vous pouvez obtenir la «contraception d’urgence» sans prescription médicale, <span class='fluo'>gratuitement et de manière anonyme</span> : <br><br>• <span class='fluo'>dans une pharmacie.</span> N’hésitez pas à poser vos questions à votre pharmacien, qui est là pour vous conseiller ; <br><br>• <span class='fluo'>auprès de l’infirmière scolaire</span> de votre établissement, si vous êtes collégienne, lycéenne ou étudiante à l’université ; <br><br>• <span class='fluo'>dans un centre de planification familiale (CPF)</span> ; <br><br>• <span class='fluo'>dans un CeGIDD</span> (Centre Gratuit d’Information, de Dépistage et de Diagnostic des virus de l’immunodéficience humaine (VIH), des hépatites et des infections sexuellement transmissibles.) ; <br><br>• <span class='fluo'>sur ordonnance,</span> auprès de votre médecin, gynécologue, sage-femme."
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>La contraception d’urgence n’apporte aucune protection contre les IST. En cas de rapport mal ou non protégé, un dépistage des IST est nécessaire.</asavoir>"
+    },
+    {
+      "titre": "COMMENT SAVOIR SI LA CONTRACEPTION D’URGENCE A ÉTÉ EFFICACE?",
+      "contenu": "Pour savoir si la contraception d’urgence a été efficace, <span class='fluo'>surveillez l’apparition des prochaines règles.</span> Cependant, avec la contraception d’urgence, la date des règles peut être avancée ou retardée de quelques jours. Il est nécessaire de vous assurer que <span class='fluo'>vous n’êtes pas enceinte en pratiquant un test de grossesse soit par test urinaire,</span> disponible en pharmacie ou en rayon parapharmacie des supermarchés, <span class='fluo'>soit par une prise de sang,</span> prescrite par votre généraliste, votre gynécologue ou votre sage-femme dans les cas suivants : <br>• vos règles ont un retard de plus de cinq jours ; <br>• vos règles arrivent à la date prévue, mais elles vous paraissent anormales (peu abondantes, d’une durée prolongée...) ou si elles sont accompagnées de douleurs inhabituelles."
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Dans tous les cas, si absence de règles, test de grossesse 21 jours après la prise de la contraception d’urgence.</bubbleTurquoiseLeft>"
+    },
+    {
+      "titre": "<br><br>GOMMER LES IDÉES REÇUES",
       "contenus": [
         {
-          "titre": "Conditions de délivrance",
-          "contenu": "(dev des conditions de délivrance)"
+          "titre": "",
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>La pilule du lendemain, c’est un moyen de contraception?</bubbleTurquoiseLeft>"
         },
         {
-          "titre": "Comment savoir si la contraception d’urgence a été efficace ?",
-          "contenu": "(dev de comment savoir si la contraception d’urgence a été efficace ?)"
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> C’est une méthode de rattrapage pour bloquer ou retarder l’ovulation.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Alors c’est comme faire une IVG?</bubbleTurquoiseLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> Si la grossesse a déjà commencé la pilule du lendemain ne va pas l’arrêter.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>La pilule du lendemain, c’est dangereux, ça rend stérile!</bubbleTurquoiseLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> La pilule peut perturber momentanément le cycle hormonal. Elle n’est pas mauvaise pour la santé mais il ne faut pas en abuser!</bubbleWhiteRight>"
         }
       ]
     },
     {
-      "titre": "LA CONTRACEPTION D’URGENCE INTRA UTÉRINE",
-      "contenu": "(à definir...)"
+      "titre": "",
+      "contenu": "La contraception d’urgence intra-utérine est une méthode moins connue, car plus complexe à mettre en œuvre.  <span class='fluo'>Cependant, le dispositif intra-utérin (DIU) au cuivre ou stérilet constitue la méthode de contraception d’urgence la plus efficace en cas de rapports sexuels non ou mal protégés.</span><br><br>Le DIU en cuivre a un effet spermicide et rend les spermatozoïdes inactifs. Il ne bloque pas l’ovulation, mais en agissant également sur la muqueuse utérine, il empêche qu’un ovule fécondé ne se fixe dans l’utérus.<br><br>Ce stérilet en cuivre doit être posé dans les cinq jours maximum qui suivent le rapport sexuel à risque. La pose d’un stérilet nécessite une consultation préalable chez un médecin, un gynécologue ou une sage-femme. Le dispositif intra-utérin (DIU) est inséré dans l’utérus par un médecin ou une sage-femme.<br><br>Une fois posé, le stérilet peut rester en place 5 ans et devenir une contraception régulière.<br><br>Le DIU au cuivre est disponible en pharmacie sur prescription médicale. Il est pris en charge à 100 % par l’Assurance Maladie si vous avez moins de 26 ans. <span class='fluo'>L’anonymat et la gratuité sont garantis pour les moins de 26 ans.</span>"
     }
   ]
 }

@@ -1,72 +1,98 @@
 {
-  "titre": "Canvas TEST VIDEO",
+  "titre": "",
   "contenus": [
     {
-      "titre": "item1",
-      "contenu": "description de l'item1"
+      "titre": "DÉFINITION",
+      "contenu": "<span class='fluo'>L’E-sexualité</span> ou cyber sexe comprend <span class='fluo'>l’ensemble des discussions, relations ou actes sexuels réalisés par écrans interposés.</span> Cela englobe donc les smartphones, les ordinateurs, tablettes, consoles de jeux, etc…<br><br>Le danger est la libre accessibilité de la E-sexualité (à tout âge). L’exposition facile et pas forcément contrôlée des adolescents à ces sites est importante."
     },
     {
-      "titre": "item2[]",
+      "titre": "Vigilance !",
+      "contenu": "<span class='fluo'>11% des moins de 7 ans ont déjà eu un accès à des contenus pornographiques. C’est en moyenne à l’âge de 10 ans qu’un enfant découvre des images à caractère pornographique pour la 1ère fois.</span>"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/6dessin1' alt='dessin intro' />"
+    },
+    {
+      "titre": "LES RISQUES",
+      "contenu": "Les adolescents peuvent rencontrer différents problèmes lors de leur connexion sur internet : les images pornographiques, l’absence de limites, l’exposition de leur intimité, les sollicitations sexuelles, le harcèlement en ligne…<br><br> • <b>Image inappropriée de la sexualité : les images à caractère pornographique</b><br>L’utilisation de ces sites ou applications peut <span class='fluo'>fausser la réalité d’une véritable relation sexuelle chez les jeunes adolescents sans expérience.</span><br><br>Les risques sont : <br>- une banalisation de l’acte sexuel, <br>- une vision erronée de la femme et/ou de l’homme, des relations sexuelles, <br>- l’oubli des notions de consentement, de respect, être confronté à ces images et situations trop tôt"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/6photo2' alt='dessin 2' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<b>• L’exposition de l’intimité via les réseaux sociaux</b> <br>Les utilisateurs de réseaux sociaux créent ou entretiennent des relations sociales, professionnelles, voire amoureuses par le biais de propos, de photographies ou de vidéos. Un individu peut ainsi exposer publiquement sa vie aux internautes de toute la planète ou se limiter à son cercle d’ « amis ». <span class='fluo'>Des éléments considérés comme faisant partie de la vie privée, voire intime, deviennent, par conséquent, publics et accessibles à d’innombrables individus.</span> En effet, les jeunes utilisateurs des réseaux y dévoilent une multitude d’informations, <span class='fluo'>plus ou moins privées et conscientes, sans prendre de réelles précautions.</span> Le risque de cette exposition – ou extimité - étant l’utilisation et la diffusion des contenus à mauvais escient."
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/6photo3' alt='dessin 3' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<b>• Les sollicitations sexuelles :</b> <br>Les sollicitations en ligne peuvent inclure des propositions de discussions ou d’activités sexuelles, mais aussi <span class='fluo'>pousser à fournir des informations ou des images à caractère sexuel à une autre personne en ligne.</span> <br><br>La sollicitation en ligne peut également avoir des conséquences plus graves, notamment <span class='fluo'>mener à une agression sexuelle</span> (communiquer avec un étranger en ligne, puis le rencontrer et se faire agresser), voire à la sextorsion (chantage pour envoyer de l’argent ou des photos dénudées pour empêcher d’autres images d’être mises en ligne).<br><br>Les sollicitations sexuelles par des adultes à des mineurs via internet sont interdites par la loi et punies de lourdes peines.<br><br><i>( Source : Association for the Treatment of Sexual Abusers (ATSA) )</i>"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/6photo4' alt='dessin ' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<b>• Le cyber harcèlement</b> ou le harcèlement en ligne est défini <span class='fluo'>comme « un acte d’agression ouvert, intentionnel, envers une autre personne sur Internet »</span> ou « un préjudice intentionnel et répété <span class='fluo'>infligé au travers d’ordinateurs, de téléphones et autres appareils électroniques »</span> (Hinduja et Patchin, 2009). Le harcèlement peut se produire <span class='fluo'>sur des réseaux sociaux publics ou semi-publics</span> comme les chats ou les messageries instantanées, SMS, mails, jeux en ligne etc… Ces actes, qui peuvent avoir différentes formes (insultes, dénigrement, moqueries, rumeurs, menaces etc.), sont très violents psychologiquement pour la personne qui en est victime et peuvent avoir de très graves conséquences."
+    },
+    {
+      "titre": "LA PRÉVENTION",
+      "contenu": "<b>Imposez une limite d’âge.</b> Sur la plupart des réseaux sociaux, les utilisateurs doivent être âgés de 13 ans ou plus pour pouvoir créer un compte. Pour les 13-14 ans, le consentement des parents est désormais requis pour s’inscrire sur un réseau social. Les 15 ans et plus peuvent consentir seul, comme un majeur. <br><b>Réseaux sociaux interdits avant 13 ans</b> >>> YouTube, Snapchat, Instagram, TikTok, Yubo, Discord, Twitch, X (Twitter), Facebook. On peut regarder des vidéos YouTube et Tik Tok avant 13 ans, mais il faut avoir 13 ans pour se créer un compte et avoir le droit de publier une vidéo, même si on a l’accord de ses parents. <br><b>Réseaux sociaux interdits avant 16 ans</b> >>> WhatsApp."
+    },
+    {
+      "titre": "LES DIFFÉRENTS RÉSEAUX SOCIAUX",
+      "contenu": "<b>• FACEBOOK :</b> Le réseau social le plus connu. Il permet à ses utilisateurs de publier du contenu (images, photos, vidéos, fichiers…) et d’échanger des messages et d’interagir sur les messages des autres utilisateurs. <br><br><b>• X (anciennement TWITTER) :</b> Plateforme de microblogging. Limité à 140 caractères par message (tweets) sans les médias photos, vidéos, gifs animés. Donne la possibilité de suivre d’autres comptes twitter. Plusieurs personnes choisissent Twitter pour divulguer un scoop. <br><br><b>• YOUTUBE :</b> Plateforme de partage de vidéos appartenant à Google. Il n’y a pas besoin d’avoir un compte pour voir les vidéos, qui peuvent parfois être explicites. <br><br><b>• SNAPCHAT :</b> Application très prisée par les jeunes qui permet d’envoyer des photos et vidéos qui n’apparaissent que pendant quelques secondes. L’application permet également de créer et de diffuser des stories (suite de photos et/ou vidéos) visibles à volonté mais uniquement pendant 24h. <br><br><b>• INSTAGRAM :</b> Application/réseau social et service de partage de photos et de courtes vidéos disponibles sur plateformes mobiles. Les utilisateurs peuvent également réaliser et diffuser des « stories » qui disparaissent au bout de 24h.<br><br><b>• SKYPE :</b> Messagerie instantanée par vidéo, appel audio ou conversation écrite. <br><br><b>• TIK TOK :</b> Application qui permet aux utilisateurs de créer des vidéos courtes de 3 à 60 secondes. Très prisée des adolescents mais encourage le narcissisme et l’hypersexualisation de ses utilisateurs très jeunes.<br><br><b>• WHATSAPP :</b> Application mobile de messagerie instantanée qui permet d’envoyer des messages ou d’appeler gratuitement ses contacts, mais aussi de partager des vidéos ou des photos. <br><br><i>(Source : Association E-ENFANCE )</i>"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/6photo5' alt='dessin 5' />"
+    },
+    {
+      "titre": "",
       "contenus": [
         {
-          "titre": "item2[0]",
-          "contenu": "TEST ICI (DISTANT) DE ASAVOIR...description de l'item2[0]"
+          "titre": "",
+          "contenu": "<bubbleVioletLeft><size=150><sprite=0></size>Pourquoi du contenu pornographique apparaît sur mon écran quand je suis sur internet?</bubbleVioletLeft>"
         },
         {
-          "titre": "item2[1][]",
-          "contenus": [
-            {
-              "titre": "item2[1][0]",
-              "contenu": "description de l'item2[1][0], pour le moment, test de video <vid src='vid/JEUNE_LAZ_IDEAL.mp4' alt='Juste une vidéo 3...' />"
-            },
-            {
-              "titre": "item2[1][1]",
-              "contenu": "description de l'item2[1][1]"
-            },
-            {
-              "titre": "item2[1][2][]",
-              "contenus": [
-                {
-                  "titre": "item2[1][2][0]",
-                  "contenu": "description de l'item2[1][2][0]"
-                },
-                {
-                  "titre": "item2[1][2][1]",
-                  "contenu": "description de l'item2[1][2][1]"
-                },
-                {
-                  "titre": "item2[1][2][2]",
-                  "contenu": "description de l'iitem2[1][2][2]"
-                },
-                {
-                  "titre": "item2[1][2][3]",
-                  "contenu": "description de l'iitem2[1][2][3]"
-                }
-              ]
-            },
-            {
-              "titre": "item2[1][3]",
-              "contenu": "description de l'iitem2[1][3]"
-            }
-          ]
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Tu as affaire à un Pop-up ! C’est une fenêtre intruse ou fenêtre surgissante, qui s’affiche, sans avoir été sollicitée par l’utilisateur, devant la fenêtre de navigation principale lorsque l’on navigue sur Internet. Attention cela peut venir de contenus pornographiques ou inadaptés à un jeune, voire d’un virus informatique ou d’une tentative de piratage.</bubbleWhiteRight>"
         },
         {
-          "titre": "item2[2]",
-          "contenu": "description de l'item2[2]"
+          "titre": "",
+          "contenu": "<bubbleVioletLeft><size=150><sprite=0></size>Un de mes contacts Snapchat m’a envoyé des images pornographiques choquantes. Qu’est ce que je dois faire?</bubbleVioletLeft>"
         },
         {
-          "titre": "item2[3]",
-          "contenu": "description de l'item2[3]"
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Tu es victime d’un cyberflashing ! Ce sont des images ou photo à caractère sexuel plus ou moins choquantes que tu reçois sans l’avoir souhaité ou contrôlé. Ces images apparaissent de façon rapide sans que tu t’y attendes. Il est nécessaire de bien vérifier les réglages de ton téléphone et d’en parler à un adulte.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleVioletLeft><size=150><sprite=0></size>Ma copine et moi avons fait, pour rire, des photos de nous en maillot de bain. Nous les avons envoyées juste à nos amis sur WhatsApp. On ne risque rien c’est sécurisé.</bubbleVioletLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b><br>Il est toujours possible que ces photos soient diffusées, sans ton autorisation à des personnes que tu ne connais pas. Tu n’auras ensuite aucun contrôle de ces images qui peuvent être utilisées à des fins de moqueries, de chantage!</bubbleWhiteRight>"
         }
       ]
     },
     {
-      "titre": "item3",
-      "contenu": "description de l'item3"
+      "titre": "",
+      "contenu": "<asavoir>La diffusion de messages audios ou d’images à caractère sexuel pris dans un lieu public ou privé est punie par la loi, même si la personne était consentante au moment des faits. La loi punit l’infraction de « Revenge Porn ».<asavoir>"
     },
     {
-      "titre": "item4",
-      "contenu": "description de l'item4"
+      "titre": "PERSONNES - LIEUX RESSOURCES",
+      "contenu": "<br><br><b>• www.stop-cybersexisme.com</b><br>Pour s’informer ou signaler le cybersexisme, que l’on soitvictime ou témoin.<br><br><b>• Non au harcèlement : 3020</b><br>Service et appels gratuits pour les élèves, parents,professionnels.<br><br><b>• www.pointdecontact.net</b><br>Pour signaler un contenu illicite sur internet.<br><br><b>• www.internetsanscrainte.fr</b><br>Dossiers et informations pour accompagner les jeunes, les parents, les enseignants dans une meilleure maîtrise d’internet."
+    },
+    {
+      "titre": "Une video : ",
+      "contenu": "<vid  src='vid/JEUNE_LAZ_IDEAL'>"
     }
   ]
 }

@@ -1,58 +1,204 @@
-
 {
   "titre": "VIOLENCES SEXUELLES(version DISTANTE)",
   "contenus": [
     {
       "titre": "Loi",
-      "contenu": "(Développement de la loi)"
+      "contenu": "Les textes législatifs reconnaissent <span class='fluo'>le droit à un mineur d’avoir des relations sexuelles à partir de 15 ans, sous certaines conditions.</span><br><br> La loi fixe cet âge légal seuil à partir duquel <span class='fluo'>un jeune est considéré comme apte à donner son consentement éclairé,</span> afin de le protéger d’éventuels abus."
     },
     {
       "titre": "Relations sexuelles entre mineurs",
-      "contenu": "(Développement de relations sexuelles entre mineurs)"
+      "contenu": "<b>• Entre 15 et 18 ans,</b> les jeunes mineurs entre eux peuvent avoir des relations sexuelles tant que cette relation est consentie <br><b>• En dessous de 15 ans,</b> la loi est floue. L’appréciation des situations est en fonction de l’âge des enfants, de leur différence d’âge et du fait que la relation soit consentie ou non."
     },
     {
       "titre": "Relations sexuelles entre mineur et majeur",
-      "contenu": "(Développement de relations sexuelles entre mineur et majeur)"
-    }
-    ,
+      "contenu": "<b>• Pour les mineurs de moins de 15 ans:</b> <span class='fluo'>Un mineur de moins de 15 ans est considéré comme non-consentant pour tout acte sexuel avec un adulte. Toute relation sexuelle entre un adulte et un mineur de moins de 15 ans est interdite et passible de sanctions pénales.</span> <br><br><b>• Pour les mineurs de plus de 15 ans:</b> Les relations entre un mineur de plus de 15 ans et un majeur sont autorisées dans la mesure où elles sont librement consenties. Mais elles restent interdites et punies par la loi dans certains cas : si le majeur est un ascendant (parents, fratrie, ...) ou ayant un lien d’autorité (enseignant, éducateur, personnalité religieuse, ...)"
+    },
     {
-      "titre": "LE CONSENTEMENT SEXUEL",
-      "contenu": "(Développement du consentement sexuel)"
-    }
-    ,
+      "titre": "",
+      "contenu": "<asavoir>Jusqu’à sa majorité civile (18 ans), un mineur est légalement sous l’autorité parentale. De ce fait, en cas de relation sexuelle du mineur, si celle-ci est pénalement répréhensible, les parents ont la possibilité de porter plainte ou d’initier une procédure d’information préoccupante auprès des autorités concernées.</asavoir>"
+    },
     {
       "titre": "Définition",
-      "contenu": "(Développement de définition)"
-    }
-    ,
+      "contenu": "Le consentement sexuel est <span class='fluo'>l’accord qu’une personne donne à sa ou son partenaire pour participer à une activité sexuelle</span> (baisers, caresses, rapport sexuel, ... ) On peut faire comprendre que l’on est d’accord par des paroles, des gestes, ou les deux.<br> Si une personne refuse une activité sexuelle et qu’elle est forcée de le faire, il n’y a alors pas de consentement et il s’agit d’une agression."
+    },
     {
-      "titre": "Les formes de violences sexuelles",
-      "contenu": "(Développement des formes de violences sexuelles)"
-    }
-    ,
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand on cède parce qu’on a peur, parce qu’on est menacé(e), qu’on est frappé(e)</bubbleWhiteRight>"
+    },
     {
-      "titre": "Les infractions sexuelles",
-      "contenu": "(Développement des infractions sexuelles)"
-    }
-    ,
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand on accepte car l’auteur nous fait continuellement vivre dans la crainte, ou dans la terreur, par exemple</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand on a moins de 15 ans et/ou pas la maturité nécessaire pour comprendre</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand quelqu’un profite de notre état de faiblesse, permanent ou passager (grande détresse, handicaps physiques ou mentaux, victime endormie ou sous l’emprise d’alcool, de drogues, ... )</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand l’auteur exploite une situation qui nous rend dépendante de lui (c’est notre médecin, notre psychologue, notre professeur, notre prêtre...)</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleRougeLeft>Un acte sexuel doit être librement consenti par les personnes concernées.</bubbleJauneLeft>"
+    },
+    {
+      "titre": "<br><br>GOMMER LES IDÉES REÇUES",
+      "contenus": [
+        {
+          "titre": "",
+          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>J’ai 15 ans, je sors avec un lycéen de 18 ans : est ce que j’ai le droit?</bubbleRougeLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Oui tu as le droit, mais si cette relation est pénalement répréhensible (emprise sur toi, menace,..), tes parents peuvent porter plainte contre ton copain</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>Quand on mélange l’alcool avec du jus de fruits ou des boissons sucrées, ses effets sont diminués?</bubbleRougeLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Ce qui compte, c’est la quantité d’alcool absorbée, et elle ne change pas si vous ajoutez de l’eau, ou même un jus de fruit. L’alcool est juste dilué, mais il n’a pas disparu. Une boisson alcoolisée contient la même quantité d’alcool qu’elle soit pure ou allongée, avec ou sans glace.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>J’ai 17 ans et j’ai pécho le copain de mon frère qui a 25 ans. Je ne risque rien, j’ai plus de 15 ans et je suis majeure sexuellement.</bubbleRougeLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>Si la relation est consentante entre vous deux, la loi n’interdit pas les relations sexuelles entre une personne majeure et une personne mineure de 15 ans ou plus. Mais tes parents peuvent s’y opposer en portant plainte s’ils estiment que ton consentement n’est pas total. </bubbleWhiteRight>"
+        },
+
+        {
+          "titre": "",
+          "contenu": "<bubbleRougeLeft>Pendant les vacances, j’ai fait un stage de tennis. L’animatrice m’a touché plusieurs fois à des endroits intimes. Elle m’a dit que c’est normal entre filles. A -t-elle le droit?<bubbleRougeLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><b>Non elle n’en a pas le droit. Tout acte à connotation sexuelle, même consentie, est interdit entre un mineur et un majeur si celui-ci exerce une autorité vis-à-vis du mineur. Un professeur exerce une autorité sur toi du fait de son métier. Tu dois en parler et porter plainte.</bubbleWhiteRight>"
+        }
+      ]
+    },
     {
       "titre": "Définition",
-      "contenu": "(Développement de définition)"
-    }
-    ,
+      "contenu": "Les violences sexuelles consistent à obliger une personne à subir, à accomplir ou à être confrontée à des propos ou des actes d’ordre sexuel sans son libre consentement."
+    },
     {
-      "titre": "Les délais de prescription",
-      "contenu": "(Développement des délais de prescription)"
-    }
-    ,
+      "titre": "LES DIFFÉRENTS TYPES DE VIOLENCES SEXUELLES",
+      "contenu": "<b>• l’atteinte sexuelle :</b> <span class='fluo'>violences sexuelles n’impliquant pas de contact corporel.</span><br>Exemples : proposition sexuelle faite à un mineur de moins de 15 ans, gestes et paroles obscènes, grivoises, sexistes, courriels pornographiques, filmage ou diffusion d’images à son insu, exhibition, harcèlement à connotation sexuelle, ... <br><br><b>• l’agression sexuelle :</b> <span class='fluo'>acte sexuel sans pénétration commis par violence, contrainte</span> (contre sa volonté), <span class='fluo'>menace ou surprise</span>.<br> Exemples : attouchement, baiser ou caresse imposés, masturbation forcée, obligation de prendre des postures dégradantes, ... •<br><br><b> le viol :</b> <span class='fluo'>acte sexuel avec pénétration commis par violence, contrainte, menace ou surprise</span>.<br> Exemples : pénétration vaginale, anale (sodomie), orale (fellation, cunnilingus), par le pénis, par les doigts ou par un objet."
+    },
     {
-      "titre": "Que faire en cas de suspicion ou d'aveu ?",
-      "contenu": "(Développement de que faire en cas de suspicion ou d'aveu ?)"
-    }
-    ,
+      "titre": "LOI",
+      "contenu": "<span class='fluo'>Les violences sexuelles sont interdites par la loi et pénalement sanctionnées.</span> Les peines encourues et les délais de prescription varient selon la nature des faits, l’âge de la victime et les éventuelles circonstances aggravantes (agresseur ayant un lien d’autorité sur la victime, notion de menaces, violences, contraintes, ... )."
+    },
+    {
+      "titre": "LES DÉLAIS DE PRESCRIPTION",
+      "contenu": "Toute victime d’une infraction sexuelle a le droit d’être écoutée, orientée, de porter plainte, d’engager des poursuites contre son agresseur, de demander réparation de son préjudice.<br> Le délai de prescription est le délai pour agir en justice : <br>• de la victime qui souhaite déposer plainte <br>• du Procureur de la République s’il veut engager des poursuites<br> <span class='fluo'>En matière d’infraction sexuelle, ces délais sont longs, permettant à la victime, bien après les violences subies, de pouvoir engager des poursuites contre son agresseur.</span>"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Un mineur peut porter plainte lui-même en écrivant au procureur, ou en se rendant dans les locaux de la police ou de la gendarmerie, ou en faisant un signalement en ligne : www.arretonslesviolences.gouv.fr.</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble><br><br>VIOLENCES SEXUELLES<br>SANS PÉNÉTRATION</titlebubble><corpsbubble></corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble>AGRESSION SEXUELLE<br>ART 222-22 du CP</titlebubble><corpsbubble>Toutes les atteintes sexuelles commises avec violence, contrainte, menace ou surprise</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble><br>EXEMPLES :</titlebubble><corpsbubble><br><br>• Toucher une partie du corps <br><br>• Embrasser de force <br><br>• Masturbation imposée<br></corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble>DÉLIT : 5 ANS DE PRISON • 75 000 € D’AMENDE</titlebubble><corpsbubble> <br><b>PEINE MAJORÉE SI CIRCONSTANCE AGGRAVANTE</b><br><br>(mineur - de 15 ans, inceste, ... )</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble>DÉLAI DE PRESCRIPTION :</titlebubble><corpsbubble>6 ANS si victime majeure<br><br>10 ANS à compter de la majorité si victime mineure</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<br>"
+    },
+    {
+      "titre": "",
+      "contenu": "<br>"
+    },
+
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble><br><br>VIOLENCES SEXUELLES<br>AVEC PÉNÉTRATION</titlebubble><corpsbubble></corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble>VIOL<br>ART 222-23 du CP</titlebubble><corpsbubble>Tout acte de pénétration sexuelle de quelque nature qu’il soit, commis sur une personne, par violence, contrainte, menace ou surprise</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble><br>EXEMPLES :</titlebubble><corpsbubble><br><br>• Fellation, cunnilingus <br><br>• Pénétration anale ou vaginale imposée <br><br>• Introduction d’un objet ou d’un doigt (vaginal ou anal)</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble>CRIME : 15 ANS DE PRISON • 75 000 € D’AMENDE</titlebubble><corpsbubble> <br><b>PEINE MAJORÉE SI CIRCONSTANCE AGGRAVANTE</b><br><br>(vulnérabilité de la personne, ascendant (inceste), conjoint, moyens utilisés etc…)</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><colortext>#ffffff</colortext><colorbkg>#d22027</colorbkg><titlebubble>DÉLAI DE PRESCRIPTION :</titlebubble><corpsbubble>6 ANS si victime majeure<br><br>20 ANS si victime majeure<br>30 ANS à compter de la majorité si victime mineure</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "EN CAS D’INCESTE",
+      "contenu": "Avoir des relations sexuelles, subir des attouchements, recevoir des caresses mal placées de la part d’une personne de sa famille et/ou qui est d’une autre génération, <span class='fluo'>c’est de l’inceste et c’est interdit.</span> Lorsque les infractions sexuelles (crimes ou délits) sont commis par un membre de la famille (ascendants, beauxparents, frère, sœur, oncle, tante,…), les peines sont majorées. Lorsque le viol incestueux ou l’agression sexuelle incestueuse est commis contre un mineur par une personne titulaire sur lui de l’autorité parentale, le jugement doit se prononcer sur le retrait total ou partiel de cette autorité."
+    },
+    {
+      "titre": "EN CAS DE SUSPICION OU D’AVEU D’AGRESSION SEXUELLE",
+      "contenu": "<span class='fluo'>Les mineurs victimes ou leurs représentants peuvent porter plainte contre les auteurs d’infractions, même longtemps après la date des faits.</span><br>Le dépôt de plainte peut se faire dans un commissariat de police, une brigade de gendarmerie ou directement par courrier auprès du procureur.<br>Les personnes qui ont connaissance de ces infractions peuvent les signaler aux autorités.<br><span class='fluo'>Le signalement doit être fait SANS l’accord préalable de la victime si celle-ci est mineure ou s’il y a une notion de vulnérabilité.</span><br>L’accord est obligatoire si la victime est majeure (sauf si critère de vulnérabilité)."
+    },
+    {
+      "titre": "• N° 39 19",
+      "contenu": "<b>N° GRATUIT D’ÉCOUTE ET D’ORIENTATION</b><br>pour les victimes de violences (physiques, sexuelles, psychologiques) et ceux qui veulent leur venir en aide. <br>On vous écoutera, vous informera sur les droits et on pourra vous orienter vers les <b>STRUCTURES ET ASSOCIATIONS RÉUNIONNAISES</b> d’accompagnement et de prise en charge. À La Réunion <b>numéro disponible 24H/24, 7j/7.</b><br><br><span class='fluo'>Pour que la victime ou un témoin signale les violences (actuelles ou anciennes) : commissariat de police ou gendarmerie ou signalement en ligne sur www.arretonslesviolences.gouv.fr</span>"
+    },
+    {
+      "titre": "",
+      "contenu": "<b>LES NUMÉROS À APPELER EN CAS D’URGENCE:</b> <br><br>• 17 Police et gendarmerie <br><br>• 15 (ou 112 depuis un téléphone portable) Aide médicale d’urgence (SAMU) <br><br>•114 SMS à envoyer (gratuit) si vous ne pouvez pas parler (danger, handicap) <br><br>• 115 Hébergement en urgence et mise à l’abri <br><span class='fluo'>Ces numéros d’urgence sont gratuits et peuvent être composés à partir d’un téléphone fixe ou portable, même bloqué ou sans crédit.</span> <br><br><b>•Réseau VIF :</b> association d’écoute, conseils, orientations au sujet des violences intra-familiales:"
+    },
+
+    {
+      "titre": "0262 96 04 24",
+      "contenu": ""
+    },
+
     {
       "titre": "Contacts utiles",
-      "contenu": "(Développement de contacts utiles)"
+      "contenu": "PORTAIL DE <b>SIGNALEMENT</b> DES <b>VIOLENCES SEXUELLES</b> ET <b>SEXISTES</b> <br>Rendez-vous sur <b><br>signalement-violences-sexuelles-sexistes.gouv.fr</b> <br><br>• le tchat permet un <span class='fluo'>échange individualisé</span> avec un policier ou un gendarme spécialement formé <br><br>• il n’est pas obligatoire de déclarer son identité <br><br>• c’est un service gratuit, <span class='fluo'>accessible 24h/24, 7j/7,</span> depuis un ordinateur, une tablette ou un smartphone"
+    },
+
+    {
+      "titre": "N° 119",
+      "contenu": "si je suis témoin, même auditif, de violence sur un enfant ou un adolescent"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/8num119' alt='numéro 119' />"
+    },
+
+    {
+      "titre": "",
+      "contenu": "<b><i>Autres coordonnées locales sur www.orviff.re</i></b>"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/8recap' alt='recapitulatif des violences' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/9TheEnd' alt='page de fin' />"
     }
   ]
 }

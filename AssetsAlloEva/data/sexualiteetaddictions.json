@@ -1,23 +1,135 @@
-
 {
   "titre": "SEXUALITÉ ET ADDICTIONS(version DISTANTE)",
   "contenus": [
     {
-      "titre": "Causes des addictions chez l'adolescent",
-      "contenu": "(Développement des causes des addictions chez l'adolescent)"
+      "titre": "",
+      "contenu": "Les adolescents sont de plus en plus exposés à la consommation de drogues dont certaines sont banalisées: <br><br>• <span class='fluo'>le tabac</span> et la nicotine sous toutes ses formes (cigarettes, chicha, puff, nicopods,...) <span class='fluo'>et l’alcool</span> <br><br>• <span class='fluo'>le cannabis (zamal)</span> <br><br>• <span class='fluo'>la cocaïne, les amphétamines, la kétamine</span> et autres hallucinogènes, <span class='fluo'>l’héroïne</span> et autres opiacés, <span class='fluo'>et l’ecstasy</span> <br><br>• <span class='fluo'>les produits inhalants comme le poppers</span> (un vasodilatateur à effets euphorisants et aphrodisiaques), <span class='fluo'>la colle et les solvants</span> <br><br>• <span class='fluo'>les drogues de synthèse</span> (cathinones et cannabinoïdes de synthèse) ; certains médicaments <br><br>• <span class='fluo'>des comportements à risques d’addiction</span> (dépendance à internet, aux jeux vidéo, aux jeux d’argent, aux sites pornographiques)<br><br><br>Le risque de dépendance est étroitement lié à la précocité de la consommation."
     },
     {
-      "titre": "La consommation de produits alcoolisés",
-      "contenu": "(Développement de la consommation de produits alcoolisés)"
+      "titre": "",
+      "contenu": "<img src='img/7Addictions1' alt='Photo Addiction 1' />"
     },
     {
-      "titre": "La consommation de drogues ou stupéfiants",
-      "contenu": "(Développement de la consommation de drogues ou stupéfiants)"
-    }
-    ,
+      "titre": "DEGRÉS DE CONSOMMATIONS ET EFFETS RECHERCHÉS CHEZ L’ADOLESCENT",
+      "contenu": "<b>Trois sortes de consommations chez l’adolescent</b>"
+    },
     {
-      "titre": "Personnes - Lieux ressources",
-      "contenu": "(Développement de Personnes - Lieux ressources)"
+      "titre": "CONSOMMATION CONVIVIALE",
+      "contenu": "Entre amis, jamais seul, de façon ponctuelle (soirées, fêtes, vacances ..), recherche d’euphorie, fléchissement scolaire possible mais activités sociales, familiales et sportives conservées.<br> Une consommation festive, conviviale et modérée ne représente pas de dangers alarmants et fait aussi partie d’un rite de passage à l’adolescence, mais ces jeunes ont besoin, tout comme leurs parents et leur entourage, d’informations sur les produits, leurs risques et leurs effets secondaires. Car potentiellement, les différents types de consommations peuvent mener à une addiction."
+    },
+    {
+      "titre": "CONSOMMATION AUTO THÉRAPEUTIQUE",
+      "contenu": "Souvent seul, de façon régulière, pour obtenir un effet anxiolytique. Décrochage voire échec scolaire. Vie sociale appauvrie, activités habituelles délaissées."
+    },
+    {
+      "titre": "CONSOMMATION ADDICTIVE",
+      "contenu": "Seul et en groupes, de façon régulière, pour obtenir un effet d’anesthésie et de « défonce »."
+    },
+    {
+      "titre": "LOI",
+      "contenu": "Depuis la loi n°2009-87 du 21 juillet 2009: <br><br>• <span class='fluo'>la vente de boissons alcoolisées aux mineurs est interdite.</span> <br><br>• <span class='fluo'>l’offre de ces boissons à titre gratuit à des mineurs est également interdite</span> dans les débits de boissons et tous commerces ou lieux publics.<br><br> <span class='fluo'>Tout vendeur d’alcool doit obligatoirement exiger la preuve de la majorité du client.</span> (Loi du 26/01/2016)"
+    },
+    {
+      "titre": "LES EFFETS DE LA CONSOMMATION D’ALCOOL",
+      "contenu": "<span class='fluo'>Le développement du cerveau</span> est achevé après 20 ans : le cerveau des adolescents est davantage vulnérable aux conséquences liées à la consommation d’alcool que celui des adultes.<br> Plus un-e adolescent-e est jeune lorsqu’il/elle commence à boire de l’alcool, plus il/elle risque de développer plus tard une <b>alcoolo-dépendance</b>"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Nous ne sommes pas tous égaux face à une consommation similaire d’alcool !</asavoir>"
+    },
+    {
+      "titre": "LES EFFETS DE LA CONSOMMATION D’ALCOOL",
+      "contenu": "Toute consommation d’alcool et <span class='fluo'>surtout d’abus d’alcool</span> avant un acte sexuel peut augmenter les comportements à risque : <br><br>• <span class='fluo'>Avoir un rapport sexuel non protégé :</span> à cause de l’ effet désinhibiteur de l’alcool, utilisation non correcte du préservatif, <br><br>• <span class='fluo'>Altération de la notion de consentement :</span> par une diminution de la vigilance et une perte de capacité de discernement, <br><br>• <span class='fluo'>Perturbation du désir, de la libido :</span> la consommation d’alcool peut augmenter l’excitation mais fortement diminuer les capacités sexuelles (troubles de l’érection, éjaculation précoce, diminution de la lubrification), <br><br>• <span class='fluo'>Augmentation des violences sexuelles subies ou provoquées,</span> <br><br>• <span class='fluo'>Risque de coma éthylique.</span> Le risque est plus grand lorsque de grandes quantités d’alcool sont ingérées rapidement et surtout à jeun (API alcoolisation ponctuelle importante ; binge drinking)."
+    },
+    {
+      "titre": "LES COMPORTEMENTS À RISQUES",
+      "contenu": "• <b>LE BINGE DRINKING :</b> il s’agit d’une <span class='fluo'>alcoolisation ponctuelle importante (API),</span> définie comme la consommation d’au moins 6 verres d’alcool (soit 60 g d’alcool pur) par occasion. L’effet recherché est l’ivresse obtenue le plus rapidement possible. Or c’est précisément cette vitesse de consommation qui est dangereuse."
+    },
+    {
+      "titre": "CONSÉQUENCES DE L’API:",
+      "contenu": "• <span class='fluo'>prises de risques multiples</span> (altercations, conduite en état d’ivresse, etc.), troubles du comportement (violence, impulsivité), • <span class='fluo'>prises de risques sexuels</span> (rapports non protégés, relations non consenties) • <span class='fluo'>dégradation du bien-être général</span> (troubles de la concentration, de la mémoire, du sommeil, fatigue, difficultés financières, etc.). • Le risque de développer une <span class='fluo'>dépendance</span> est multiplié par 3 ainsi que les risques de <span class='fluo'>développer des pathologies</span> (cancers, atteintes hépatiques, cardiaques, neurologiques, psychiatriques).<br><br><br><br><br>Il existe une multitude de jeux qui encouragent la consommation d’alcool chez les jeunes au travers de la réalisation de défis. Les plus populaires : <br><br>• soit via des applications (exemple : Piccolo – Action ou vérité – Never Mind – Drink Extrême), <br><br>• soit via les réseaux sociaux, <br><br>• soit à partir de jeux traditionnels tels les cartes ou les dés. "
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Trop souvent considéré comme une conséquence anecdotique d’une absorption importante d’alcool, le coma éthylique peut avoir des conséquences graves, voire entraîner la mort.</asavoir>"
+    },
+    {
+      "titre": "<b>ÉQUIVALENCE DES VERRES D’ALCOOL</b>",
+      "contenu": "<b><br>1 VERRE D’ALCCOL<br>= 10g D’ALCOOL PUR</b><br><br>10g d’alcool c’est:"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/7Addictions2' alt='Schema Addiction 2' />"
+    },
+    {
+      "titre": "<br><br>GOMMER LES IDÉES REÇUES",
+      "contenus": [
+        {
+          "titre": "",
+          "contenu": "<bubbleBleuClairLeft><size=150><sprite=0></size>Red bull et alcool, un cocktail trop super!</bubbleBleuClairLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Le Red bull donne la fausse impression de gérer son ivresse ! L’alcool est la drogue la plus consommée mais aussi l’une des plus toxiques et des plus addictives.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleBleuClairLeft><size=150><sprite=0></size>Quand on mélange l’alcool avec du jus de fruits ou des boissons sucrées, ses effets sont diminués?</bubbleBleuClairLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Ce qui compte, c’est la quantité d’alcool absorbée, et elle ne change pas si vous ajoutez de l’eau, ou même un jus de fruit. L’alcool est juste dilué, mais il n’a pas disparu. Une boisson alcoolisée contient la même quantité d’alcool qu’elle soit pure ou allongée, avec ou sans glace.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleBleuClairLeft><size=150><sprite=0></size>L’alcool désaltère.</bubbleBleuClairLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b><br>C’est tout l’inverse ! L’alcool déshydrate sévèrement et c’est cette déshydratation qui cause l’effet « gueule de bois » après quelques verres de trop. Il faut boire beaucoup d’eau pour réduire les risques associés à l’alcool.</bubbleWhiteRight>"
+        },
+
+        {
+          "titre": "",
+          "contenu": "<bubbleBleuClairLeft><size=150><sprite=0></size>Le binge drinking c’est un super défi trop drôle entre potes!</bubbleBleuClairLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>ATTENTION !</b><br>Cette façon de boire rapidement beaucoup d’alcool est dangereuse ! Un coma peut s’installer, sans que l’on s’en aperçoive. De l’extérieur, on peut confondre « sommeil d’ivrogne » avec « plongée dans le coma » avec parfois des conséquences irréversibles.</bubbleWhiteRight>"
+        }
+      ]
+    },
+    {
+      "titre": "DÉFINITION",
+      "contenu": "On appelle « drogue » toute substance qui modifie la manière de percevoir les choses, de ressentir les émotions, de penser et de se comporter."
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/7Addictions3' alt='Schema Addiction 3' />"
+    },
+    {
+      "titre": "<b>LA CONSOMMATION DE DROGUES:</b> SANS RISQUE LA PREMIÈRE FOIS?",
+      "contenu": "Le manque d’expérience peut provoquer des ressentis négatifs face à des effets inconnus (allant parfois jusqu’au « bad trip » provoqué par une intoxication aigüe à une substance) ou entrainer une consommation excessive, des prises de risques importants, voire des accidents (coma éthylique, prise de risque liée aux hallucinations, décès par surdose, mélange des substances, etc.)."
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Consommer une drogue n’est jamais banal. L’envie d’essayer de nouveau ou l’impression de « gérer » peuvent pousser à consommer de plus en plus souvent, exposant au danger de dépendance.</asavoir>"
+    },
+    {
+      "titre": "LE CHEMSEX, C’EST QUOI?",
+      "contenu": "Le chemsex désigne la consommation de substances psychoactives (SPA) au service d’activités sexuelles, prévues pour une longue durée, impliquant plusieurs partenaires et souvent associées à des conduites à risques en matière de consommation ou de pratiques sexuelles.<br><br> Les « chemsexeurs » cherchent à augmenter le désir, le plaisir, les sensations. Ils utilisent <span class='fluo'>des SPA comme les cathinones de synthèse, le GHB ou le GBL, parfois la cocaïne, la MDMA (ecstasy), la kétamine et la méthamphétamine.</span><br> Ces consommations de drogues s’accompagnent souvent de prise d’alcool, de poppers, de médicaments. <br><br>Lors des plans chemsex, les consommations de drogues et les rapports sexuels se répètent pendant plusieurs heures voire plusieurs jours."
+    },
+    {
+      "titre": "EN PARLER, SE PROTÉGER ET/OU SE FAIRE AIDER",
+      "contenu": "=> <span class='fluo'>orienter vers un professionnel de santé, CeGIDD, CJC (consultations jeunes consommateurs en CSAPA)</span>"
+    },
+    {
+      "titre": "LES ADDICTIONS SANS SUBSTANCES",
+      "contenu": "Elles englobent la dépendance: <br>• à internet, aux réseaux sociaux et toutes communications en ligne <br>• aux écrans, aux jeux vidéos, aux jeux d’argent <br>• aux sites pornographiques, à l’hypersexualité <br><br><br>Le cybersexisme est la forme de cyberharcèlement qui englobe plus spécifiquement: <br>• les actes, les messages et les propos à caractère sexuel: insultes ou moqueries à propos de son corps, sa vie amoureuse ou sexuelle <br>• les messages à caractère sexuel <br>• la création de faux comptes ou de faux profils ; diffusion (ou menace de le faire) de photos ou de vidéos sans l’accord de la victime.<br><br> SOURCE : <i>internet, sexualité et adolescence - Yann LEROUX</i>"
+    },
+    {
+      "titre": "<br>PERSONNES RESSOURCES",
+      "contenu": "• KAZ’OTÉ<br><br>• SAOMÉ • Association Addictions France www.addictions-france.org, les centres d’addictologie CSAPA <br><br>• Services d’addictologie en milieu hospitalier <br><br>• Drogues info service pour des informations sur les effets et risques des drogues consommées, pour faire le point sur leur consommation ou pour être orientés vers des professionnels spécialisés dans les addictions : 0 800 23 13 13 (service et appel anonyme et gratuit, 7j/7 de 8h à 2h). <br><br>• www.filsantejeunes.com <br>N° d’écoute : 0800 235 236 <br>(sexualité, contraception, addictions, amour)."
     }
   ]
 }

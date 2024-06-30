@@ -1,27 +1,148 @@
-
 {
   "titre": "IVG (version DISTANTE)",
   "contenus": [
     {
       "titre": "Définition",
-      "contenu": "(developpement de definition)"
+      "contenu": "<b>L’IVG ou Interruption Volontaire de Grossesse est un moyen médical d’arrêter une grossesse débutante.</b><br><br> L’IVG est possible légalement pour toutes les femmes qu’elles soient majeures ou mineures."
     },
     {
       "titre": "Lois",
-      "contenu": "(Développement des lois)"
+      "contenu": "<b>La loi sur l’interruption volontaire de grossesse -</b> dite Loi VEIL du 17 janvier 1975 - article L.2212-1 du Code de la santé publique) permet à <b>toute femme enceinte,<b> majeure ou mineure, qui ne veut pas poursuivre une grossesse de demander à un médecin ou une sage-femme <b>l’interruption de sa grossesse.</b>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>Pour une jeune fille mineure, le consentement des parents est fortement recommandé mais non obligatoire. La mineure ne souhaitant pas informer ses parents doit être accompagnée d’une personne de confiance, majeure, de son choix tout au long de sa démarche.</bubbleJauneLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>La mineure doit demander l’IVG ellemême. La décision lui appartient.</bubbleWhiteRight>"
     },
     {
       "titre": "Délais et méthodes",
-      "contenu": "(Développement des Délais et méthodes)"
+      "contenu": "L’IVG est autorisée jusqu’à <b>16 semaines d’aménorrhée* (SA)</b> mais elle varie en fonction de la <b>méthode choisie</b> pour la réalisation de l’IVG."
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/5IVG1' alt='Tableau des methodes d'IVG' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>* Semaines d’Aménorrhée (SA)<br>= semaines sans règles </asavoir>"
     },
     {
       "titre": "En pratique",
-      "contenu": "(Développement de en pratique)"
-    }
-    ,
+      "contenu": "Je suis enceinte de moins de 3 mois et je souhaite interrompre ma grossesse.<br><br>PRISE EN CHARGE À 100 % DE TOUS LES ACTES LIÉS À L’IVG."
+    },
     {
-      "titre": "Personnes ressources",
-      "contenu": "(Développement de Personnes ressources)"
+      "titre": "",
+      "contenu": "<bubbleCentrale><size=150><sprite=0></size><colortext>#e6a21d</colortext><colorbkg>#005e94</colorbkg><titlebubble>1ère CONSULTATION : informations et/ ou demande d’IVG</titlebubble><corpsbubble>confirmation et datation de la grossesse, informations générales (droits, centres conventionnés, méthodes)</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><size=150><sprite=0></size><colortext>#e6a21d</colortext><colorbkg>#005e94</colorbkg><titlebubble>UN ENTRETIEN PSYCHOSOCIAL</titlebubble><corpsbubble>obligatoire pour les mineures, proposé aux majeures</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><size=150><sprite=0></size><colortext>#e6a21d</colortext><colorbkg>#005e94</colorbkg><titlebubble>2ème CONSULTATION</titlebubble><corpsbubble>Confirmation de la demande d’IVG par écrit, avec ou sans consentement parental Discussion d’une contraception future.</corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><size=150><sprite=0></size><colortext>#e6a21d</colortext><colorbkg>#005e94</colorbkg><titlebubble>RÉALISATION DE L ‘IVG</titlebubble><corpsbubble>Si mineure, accompagnement obligatoire par une personne majeure de son choix </corpsbubble></bubbleCentrale>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleCentrale><size=150><sprite=0></size><colortext>#e6a21d</colortext><colorbkg>#005e94</colorbkg><titlebubble>CONSULTATION MEDICALE DE CONTRÔLE</titlebubble><corpsbubble>15 à 21 jours après pour vérifier le bon déroulement de l’IVG À la demande, un entretien psycho social peut être fait</corpsbubble></bubbleCentrale>"
+    },
+
+    {
+      "titre": "",
+      "contenu": "<asavoir>Avant toute prise de médicament, la personne peut arrêter cette démarche d’IVG.</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleJauneLeft>La personne majeure de confiance n’a aucune autorité sur la personne mineure. L’adulte accompagnant est tenu au secret. Tout manquement à ce secret est une atteinte à la vie privée!</bubbleJauneLeft>"
+    },
+    {
+      "titre": "<br><br>GOMMER LES IDÉES REÇUES",
+      "contenus": [
+        {
+          "titre": "",
+          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>«Si je fais une IVG, mon entourage va être au courant»</bubbleJauneLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> ! L’IVG est anonyme et confidentielle. Les professionnels sont tenus au secret médical.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>L’IVG c’est dangereux, ça peut rendre stérile.</bubbleJauneLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> Quand l’IVG est réalisée dans de bonnes conditions (professionnel de santé conventionné ou hôpital) les complications sont rares. </bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>L’IVG ne rend pas stérile et ne provoque pas le cancer</bubbleWhiteRight>"
+        },
+
+        {
+          "titre": "",
+          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>En faisant une IVG, je tue mon bébé?</bubbleJauneLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> La loi rend légale la possibilité d’interrompre une grossesse jusqu’à 16 SA. L’IVG n’est pas un délit ni un crime : c’est un droit pour toutes les femmes.</bubbleWhiteRight>"
+        },
+
+        {
+          "titre": "",
+          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>L’IVG est un moyen de contraception.</bubbleJauneLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> L’IVG, à la différence de la contraception, intervient une fois que la grossesse a débuté.<br>Le recours à l’IVG consiste à stopper cette grossesse par voie médicamenteuse ou chirurgicale.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>L’IVG doit rester exceptionnelle, l’idéal étant d’avoir un moyen de contraception adapté pour éviter une grossesse non souhaitée.</bubbleWhiteRight>"
+        },
+
+        {
+          "titre": "",
+          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>L’IVG ça coûte cher, surtout si je n’ai pas de mutuelle.</bubbleJauneLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> L’IVG et tous les examens nécessaires sont pris en charge à 100% sans avance de frais.</bubbleWhiteRight>"
+        },
+
+        {
+          "titre": "",
+          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>Je suis mineure, sans l’accord de mes parents je ne peux pas faire d’IVG. </bubbleJauneLeft>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> si je n’ai pas l’accord de mes parents, je peux choisir une personne majeure de confiance pour m’accompagner dans ma démarche d’IVG.</bubbleWhiteRight>"
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>L’IVG peut être anonyme. </bubbleWhiteRight>"
+        }
+      ]
+    },
+    {
+      "titre": "<br><br><br>PERSONNES RESSOURCES<br><br><br>",
+      "contenus": [
+        {
+          "titre": "Renseignements sur l’IVG:",
+          "contenu": "• Professionnels de santé : médecin, gynécologue, sage-femme <br><br>• Association RIVE • Association ASETIS <br><br>• Association ARPSH • Planning Familial 974 <br><br>• Infirmières scolaires • CPF et PMI "
+        },
+        {
+          "titre": "Réalisation de l’IVG:",
+          "contenu": "• Hôpitaux : Service d’orthogénie du CHU Nord, CHU Sud, Groupe Hospitalier Est Réunion, Centre Hospitalier Ouest Réunion, CEPS <br><br>• Cliniques privées : Clinique Sainte Clotilde, Clinique Les Orchidées <br><br>• Médecins généralistes, sages-femmes, gynécologues conventionnés pour faire des IVG médicamenteuses enville<br><br><br>Pour plus d’informations une cartographie IVG est disponible sur le site internet du REPERE : www.repere.re"
+        }
+      ]
     }
   ]
 }

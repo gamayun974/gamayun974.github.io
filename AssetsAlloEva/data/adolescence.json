@@ -1,21 +1,34 @@
 {
-  "titre": "Le corps à l’adolescence (version DISTANTE)",
+  "titre": "Le corps à l’adolescence",
   "contenus": [
     {
       "titre": "Définition",
-      "contenu": "L'adolescence est la <span class='fluo'>période de transition entre l'enfance et l'âge adulte.</span>,<br><br>Elle s'accompagne de nombreux changements physiques, psychologiques, émotionnels et sexuels."
+      "contenu": "L'adolescence est la <span class='fluo'>période de transition entre l'enfance et l'âge adulte.</span><br><br>Elle s'accompagne de nombreux changements physiques, psychologiques, émotionnels et sexuels."
     },
     {
       "titre": "Les transformations physiques",
-      "contenu": "Les transformations physiques observées durant l’adolescence résultent pour la plupart de modifications hormonales. La puberté survient à un rythme différent pour chaque individu. Ce sont les hormones sexuelles qui sont responsables des changements corporels observés. Le corps des garçons produira davantage de testostérone tandis que celui des filles, davantage d’estrogènes.<BR>On appelle cette phase <span class='fluo'>la puberté ; elle débute entre 9 et 16 ans et se termine en général entre 18 et 22 ans...</span> Les changements corporels observés chez les deux sexes comprennent des poussées de croissance, une transpiration plus abondante, l’apparition d’acné, l‘apparition de la pilosité pubienne et sous les bras. Les signes du développement pubertaire ne sont pas les mêmes chez les filles et les garçons (cf. schéma)."
+      "contenu": "Les transformations physiques observées durant l’adolescence résultent pour la plupart de modifications hormonales . La puberté survient à un rythme différent pour chaque individu. Ce sont les hormones sexuelles qui sont responsables des changements corporels observés. Le corps des garçons produira davantage de testostérone, celui des filles davantage d’oestrogènes.<br><br>On appelle cette phase <span class='fluo'>la puberté ; elle débute entre 9 et 16 ans et se termine en général entre 18 et 22 ans...</span><br><br>Les changements corporels observés chez les deux sexes comprennent des poussées de croissance, une transpiration plus abondante, l’apparition d’acné, l‘apparition de la pilosité pubienne et sous les bras.<br><br>Les signes du développement pubertaire ne sont pas les mêmes chez les filles et les garçons (cf. schéma)."
     },
     {
       "titre": "Les transformations hormonales",
-      "contenu": "La période de l’adolescence est caractérisée par une intense activité hormonale qui mène à la puberté et au développement adulte. La production d’hormones sexuelles est contrôlée par l’hypophyse, une petite glande située à la base du cerveau, qui est le chef d’orchestre du système hormonal.<br>Les principales hormones :<br><br> • <span class='fluo'>féminines : oestrogènes, progestérone,</span><br> • <span class='fluo'>masculines : testostérone.</span>"
+      "contenu": "La période de l’adolescence est caractérisée par une intense activité hormonale qui mène à la puberté et au développement adulte. La production d’hormones sexuelles est contrôlée par l’hypophyse, une petite glande située à la base du cerveau, qui est le chef d’orchestre du système hormonal.<br><br>Les principales hormones :<br> • <span class='fluo'>féminines : oestrogènes, progestérone,</span><br> • <span class='fluo'>masculines : testostérone.</span>"
     },
     {
+      "titre": "",
+      "contenu": "<img src='img/0HormonesFeminines' alt='Hormones Feminines' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/0HormonesMasculines' alt='Hormones Masculines' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Les hormones sexuelles sont responsables :<br>• de la production des gamètes (ovules chez la fille et spermatozoïdes chez le garçon) par les gonades (ovaires et testicules)<br>• du développement des caractères sexuels secondaires (pilosité, mue de la voix, augmentation de la taille des organes génitaux et musculature chez les garçons, gonflement des seins et élargissement du bassin chez les filles.)</asavoir>"
+    },
+
+    {
       "titre": "Les transformations psychologiques et émotionnelles",
-      "contenu": "L’adolescence est aussi un moment de la vie rempli de transformations émotionnelles et psychologiques aussi importantes que celles qui sont d’ordre physique.<br><span class='fluo'>Les adolescents se questionnent sur leur identité et ressentent un besoin grandissant d’indépendance.</span> Il s’agit également d’une période de confusion où le jeune oscille entre son désir d’autonomie et celui d’être encore dépendant de ses parents.<br>Les amitiés prennent également une plus grande importance. La pression des pairs augmente et des changements comportementaux se produisent, créant parfois des conflits entre le jeune et ses parents.<br>Rempli d’insouciance, se sentant invulnérable, <span class='fluo'>l’adolescent recherche les nouvelles expériences et peut parfois s’exposer à des situations dangereuses ou néfastes pour son bien-être ou sa santé :</span> usage de la cigarette, d’alcool ou de drogues, conduite automobile ou comportements sexuels à risques, etc."
+      "contenu": "L’adolescence est aussi un moment de la vie rempli de transformations émotionnelles et psychologiques aussi importantes que celles qui sont d’ordre physique.<br><span class='fluo'>Les adolescents se questionnent sur leur identité et ressentent un besoin grandissant d’indépendance.</span><br>Il s’agit également d’une période de confusion où le jeune oscille entre son désir d’autonomie et celui d’être encore dépendant de ses parents.<br>Les amitiés prennent également une plus grande importance. La pression des pairs augmente et des changements comportementaux se produisent, créant parfois des conflits entre le jeune et ses parents.<br>Rempli d’insouciance, se sentant invulnérable, <span class='fluo'>l’adolescent recherche les nouvelles expériences et peut parfois s’exposer à des situations dangereuses ou néfastes pour son bien-être ou sa santé :</span> usage de la cigarette, d’alcool ou de drogues, conduite automobile ou comportements sexuels à risques, etc."
     },
     {
       "titre": "Les transformations sexuelles",
@@ -23,55 +36,174 @@
     },
     {
       "titre": "En pratique<br>C'est comment le sexe féminin ?",
+      "contenu": "Les organes génitaux externes féminins sont constitués du <span class='fluo'>mont de Vénus, des grandes lèvres, des petites lèvres, des glandes de Bartholin et du clitoris.</span><br>La région qui contient ces organes est appelée <span class='fluo'>vulve</span>.<br><br> <strong>Les organes génitaux externes jouent 3 rôles principaux :</strong> <br>• protéger les organes génitaux internes des agents infectieux,<br>• permettre le plaisir sexuel,<br>• permettre aux spermatozoïdes de rejoindre l'ovule.<br>"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/adolescence-1' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir><span class='fluo'>L’hymen</span> est <span class='fluo'>une membrane de muqueuse qui se trouve à l’entrée du vagin.</span> Cette membrane est plus ou moins souple en fonction des femmes. Elle est perforée d’un orifice (ce qui permet l’écoulement des règles) dont la forme est variable.<br>Toutes les filles sont différentes : certaines n’ont pas d’hymen, d’autres ont un hymen tellement souple qu’il ne se rompt qu’à l’accouchement.</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir><span class='fluo'>Le clitoris</span> est un organe de la forme d’une double arche qui entoure le vagin ; son sommet, le gland, est sa seule partie visible.<br>Le clitoris est un organe érectile, exactement comme le pénis, dédié au plaisir : il se gonfle de sang sous l’effet de l’excitation sexuelle. Il joue un rôle fondamental dans le plaisir et l’orgasme féminin !</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir><span class='fluo'>L’hymen peut se rompre dans l’enfance</span> lors de la pratique de certaines activités sportives telles que le vélo, l’équitation, la gymnastique.<br><br>La pose d’un tampon hygiénique de petite taille ou l’introduction d’un doigt n’altère pas systématiquement l’intégrité de l’hymen.<br><br>Certaines femmes peuvent ressentir des douleurs et avoir des saignements lors de la déchirure de l’hymen; mais ce n’est pas systématique…<br><br>L’hymen est souvent le symbole de la virginité chez une fille mais <span class='fluo'>il n’est pas une garantie de virginité !</span> Certaines filles naissent sans hymen, la membrane peut ne pas se déchirer lors du 1er rapport sexuel mais pendant les suivants voire pas du tout !</asavoir>"
+    },
+    {
+      "titre": "Les organes génitaux internes comprennent :",
+      "contenu": "• <span class='fluo'>le vagin</span> situé entre la vulve et le col de l’utérus : c’est la voie de passage pour les menstruations, les sécrétions vaginales, le pénis lors d’un rapport sexuel.<br><br>• <span class='fluo'>le col de l’utérus</span> : il relie le vagin à l’utérus. Il sécrète la glaire cervicale qui facilite la montée des spermatozoïdes vers l’utérus.<br><br>• <span class='fluo'>l’utérus</span> : organe musculaire en forme de poire qui permet la gestation (porter un bébé). L’utérus est tapissé d’une muqueuse souple qui, en l’absence de fécondation, part en saignements : ce sont les menstruations ou règles.<br><br>• <span class='fluo'>les ovaires</span> : ce sont deux glandes situées aux extrémités de chaque trompe de Fallope. Ils produisent les hormones sexuelles féminines (œstrogène et progestérone) au cours du cycle ovulatoire.<br><br>• <span class='fluo'>les trompes de Fallope</span> : ce sont deux conduits qui relient les ovaires à l’utérus.<br><br><br>(voir illustration ci-dessous)"
+    },
+    {
+      "titre": "",
+      "contenu": "<img src='img/adolescence-3' alt='Schéma 3 détaillant les différentes parties du sexe féminin' />"
+    },
+    {
+      "titre": "LES PERTES BLANCHES",
+      "contenu": "Les pertes blanches ou pertes vaginales sont <span class='fluo'>des écoulements naturels du vagin.</span> De couleur blanchâtre ou translucide et à la texture gluante, les pertes blanches surviennent tout au long de la vie hormonale d’une femme, précédant l’arrivée des règles jusqu’à la ménopause. Elles signifient que les organes génitaux fonctionnent correctement. "
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>Si les sécrétions deviennent plus abondantes, colorées ou malodorantes ou s’accompagnent de démangeaisons, brûlures, elles peuvent être signe d’infection. Il est important de consulter un professionnel de santé (médecin, sage-femme, gynécologue).</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Les pertes blanches sont des écoulements naturels : il n’est pas recommandé de se laver l’intérieur du vagin qui est naturellement propre grâce aux sécrétions.<br>Le lavage externe du sexe d’une fille doit être fait à l’eau et au savon neutre.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "C’EST QUOI LE CYCLE MENSTRUEL ?",
+      "contenu": "<span class='fluo'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
+    },
+    {
+      "titre": "LA PHASE FOLLICULAIRE :",
+      "contenu": "<span class='fluo'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
+    },
+    {
+      "titre": "L’OVULATION :",
+      "contenu": "C’est la <span class='fluo'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé :<br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence.<br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
+    },
+    {
+      "titre": "LA PHASE LUTÉALE :",
+      "contenu": "<span class='fluo'>Après l’ovulation, la progestérone prend le relais ;</span>elle prépare l’utérus à l’implantation de l’œuf fécondé."
+    },
+    {
+      "titre": "Le Cycle Menstruel",
+      "contenu": "<img src='img/0LeCycleMenstruel' alt='Schéma le cycle menstruel' />"
+    },
+    {
+      "titre": "DURÉE DU CYCLE MENSTRUEL",
+      "contenu": "Le cycle menstrue <span class='fluo'>commence toujours le 1er jour des règles </span>jusqu’aux règles suivantes.<br>La durée des cycles est en moyenne de 28 jours mais elle varie selon les femmes. <span class='fluo'>Les cycles sont souvent irréguliers pendant la puberté.</span>"
+    },
+    {
+      "titre": "RISQUE DE GROSSESSE",
+      "contenu": "Lors de tout rapport sexuel, dès lors qu’il y a contact du liquide séminal et/ou du sperme avec les parties génitales d’une fille réglée, il peut y avoir fécondation donc grossesse.<br><br>A partir du moment où une jeune fille est réglée (même dès la 1ère fois), l’ovulation est possible, <span class='fluo'>donc le risque de grossesse existe quelque soit l’âge et surtout si le rapport sexuel n’est pas protégé.</span><br><br>Une jeune fille qui saigne et qui a des rapports sexuels non protégés risque d’être enceinte, car le saignement ne correspond pas forcément à un début de cycle (règles)."
+    },
+    {
+      "titre": "GOMMER LES IDÉES REÇUES",
+      "contenu": ""
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>Au moment des 1ères règles, le cycle est fréquemment irrégulier chez les adolescents, donc il n’est pas possible de tomber enceinte !</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX</b>. Le retard ou l’absence de règles peut arriver chez une adolescente. Mais attention ! S’il y a eu un rapport sexuel non protégé, cette absence ou retard peut signifier le début d’une grossesse. Un rapport sexuel et un seul peut suffire à provoquer une grossesse.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>L’ovulation se passe toujours le 14ème jour du cycle.</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>NON.</b> L’ovulation n’intervient jamais à une date fixe. Pleins d’évènements peuvent modifier ce moment.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "EN PRATIQUE<br>C'EST COMMENT LE SEXE MASCULIN ?",
+      "contenu": "<img src='img/0EnPratiqueSexeMasculin' alt='En Pratique Sexe Masculin' />"
+    },
+    {
+      "titre": "",
+      "contenu": "<span class='fluo'>Le scrotum</span> (bourses) et <span class='fluo'>le pénis</span> (verge) sont les organes externes. A l’extrémité, de la verge se trouve <span class='fluo'>le gland</span> qui est recouvert d’une peau plus fine qui le rend sensible à la stimulation. Celui-ci est recouvert par une peau, <span class='fluo'>le prépuce</span>, qui doit pouvoir se retirer (décalotter) entièrement lors des actes sexuels ou de la toilette.<br><br>Les organes internes sont composés :<br>• des <b>testicules</b> qui produisent les hormones et les spermatozoïdes,<br>• des <b>glandes annexes</b> (comme la prostate) qui sécrètent des fluides et des substances pour favoriser le mouvement des spermatozoïdes,<br>• et enfin des conduits pour en assurer le transport"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>Si tu ne laves pas régulièrement sous le prépuce, une substance crémeuse d’un blanc jaunâtre qui ne sent pas bon, apparaîtra.</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Tu dois pouvoir te décalotter (tirer la peau du prépuce en arrière) de manière à dégager le gland) et le laver au moins une fois par jour à l’eau et au savon !</bubbleWhiteRight>"
+    },
+    {
+      "titre": "LIQUIDE SÉMINAL, SPERME ET ÉJACULATION",
+      "contenu": "<b>Le liquide séminal</b> est un lubrifiant naturel, émis par l’urêtre lors des préliminaires ou en phase d’excitation sexuelle, afin de lubrifier le pénis. Ainsi, <span class='fluo'>le liquide séminal a pour fonction de faciliter la pénétration.</b><br><br><b>Le liquide séminal</b> est le principal composant du sperme. Il permet de nourrir les spermatozoïdes et de les véhiculer dans le vagin pendant un rapport sexuel. Le liquide séminal est directement lié à l’éjaculation.<br><br><b>Le sperme</b> se compose en grande partie de liquide séminal, mais surtout de spermatozoïdes. Le sperme est émis par l’urètre au moment de l’éjaculation. Il s’agit d’un liquide dont la couleur peut être blanchâtre, transparente ou un peu jaune."
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir>Le <span class='fluo'>liquide séminal</span>, qui perle sur le gland au moment de l’excitation, peut contenir des spermatozoïdes ! Lors d’un rapport sexuel non protégé, faire la « méthode du retrait » (l’homme se retire du vagin pour éjaculer à l’extérieur) n’est donc pas efficace pour éviter une grossesse !!! Surtout qu’il est difficile de contrôler son éjaculation lors d’un rapport sexuel.</asavoir>"
+    },
+    {
+      "titre": "",
+      "contenu": "<asavoir><span class='fluo'>L’éjaculation nocturne</span> ou « rêve mouillé » est un réflexe involontaire et incontrôlé qui arrive souvent pendant la phase de sommeil paradoxal (phase des rêves). Elle peut être provoquée par un rêve érotique ou non. L’adolescent peut trouver des tâches humides sur ses draps, sur ses sousvêtements au réveil. C’est un évènement fréquent et naturel à cet âge.</asavoir>"
+    },
+    {
+      "titre": "ÉRECTION",
+      "contenu": "L’érection est liée à la contraction de muscles dans le périnée qui envoie le sang dans l’extrémité de la verge, d’où son allongement et son durcissement pour lui permettre de pénétrer dans le vagin. "
+    },
+    {
+      "titre": "MASTURBATION",
+      "contenu": "<span class='fluo'>Il s’agit d’une activité sexuelle en solitaire</span> qui consiste à toucher son corps et ses parties génitales afin de <span class='fluo'>se procurer du plaisir</span> ou un orgasme.<br><br>Après la puberté, elle peut s’accompagner d’éjaculation chez le garçon et de sécrétions vaginales chez la fille.<br><br><span class='fluo'>Cette pratique est normale et saine,</span> tant qu’elle reste privée et qu’elle n’interfère pas avec la vie quotidienne. La masturbation aide à connaître son corps. <span class='fluo'>Elle permet l’apprentissage du plaisir et de se préparer à une sexualité partagée.</span>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>J’ai un petit pénis, est ce que c’est normal ?</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>La taille d’un pénis est variable d’un homme à l’autre. La taille du sexe masculin n’est pas très importante puisqu’elle est indépendante du plaisir qu’elle peut procurer. Dans tous les cas, il n’y a pas de relation entre la taille du sexe et le plaisir donné ou reçu.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>Est-ce-que la masturbation «use» le stock de sperme ?</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Chaque testicule produit plusieurs millions de spermatozoïdes par jour. Se masturber ne provoque donc pas d’appauvrissement de la production de sperme.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>Est-ce que le fait de se masturber est un acte pervers, sale?</bubbleOrangeLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>NON !</b> La masturbation est un acte naturel, intime. Par contre, elle ne peut pas être pratiquée en public. Elle peut aider à mieux connaître son corps, maîtriser ses orgasmes.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "LA SEXUALITÉ",
       "contenus": [
         {
-          "titre": "Les organes génitaux externes féminins",
-          "contenu": "Les organes génitaux externes féminins sont constitués du <span class='fluo'>mont de Vénus, des grandes lèvres, des petites lèvres, des glandes de Bartholin et du clitoris.</span> La région qui contient ces organes est appelée <span class='fluo'>vulve</span>.<br><br> <strong>Les organes génitaux externes jouent 3 rôles principaux :</strong> <ul><li> protéger les organes génitaux internes des agents infectieux,</li><li> permettre le plaisir sexuel,</li><li> permettre aux spermatozoïdes de rejoindre l'ovule.</li></ul><br><img src='img/adolescence-1.png' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+          "titre": "C’EST QUOI LE PLAISIR SEXUEL?",
+          "contenu": "C’est se donner et donner du plaisir avec son corps, ses zones érogènes, ses organes génitaux, par des caresses, des baisers, des frottements, des pénétrations etc… Les besoins, les envies et les zones sensibles à l’excitation ne sont pas les mêmes pour tous."
         },
         {
-          "titre": "Les organes génitaux internes féminins",
-          "contenu": "Les organes génitaux internes comprennent :<br>• <span class='a-savoir'>le vagin</span> situé entre la vulve et le col de l’utérus : c’est la voie de passage pour les menstruations, les sécrétions vaginales, le pénis lors d’un rapport sexuel.<br>• <span class='a-savoir'>le col de l’utérus</span> : il relie le vagin à l’utérus. Il sécrète la glaire cervicale qui facilite la montée des spermatozoïdes vers l’utérus.<br>• <span class='a-savoir'>l’utérus</span> : organe musculaire en forme de poire qui permet la gestation (porter un bébé). L’utérus est tapissé d’une muqueuse souple qui, en l’absence de fécondation, part en saignements : ce sont les menstruations ou règles.<br>• <span class='a-savoir'>les ovaires</span> : ce sont deux glandes situées aux extrémités de chaque trompe de Fallope. Ils produisent les hormones sexuelles féminines (œstrogène et progestérone) au cours du cycle ovulatoire.<br>• <span class='a-savoir'>les trompes de Fallope</span> : ce sont deux conduits qui relient les ovaires à l’utérus.<br><img src='img/adolescence-2.png' alt='Schéma détaillant les différentes parties du sexe féminin' />"
+          "titre": "L’AGE DU 1ER RAPPORT SEXUEL:",
+          "contenu": "Il n’y a pas d’âge idéal pour avoir son premier rapport sexuel mais la loi prévoit un âge à partir duquel on estime que le jeune est capable de donner son consentement libre et éclairé. <span class='fluo'>Chacun doit pouvoir ressentir quand il est prêt et surtout quand le désir est partagé.</span><br><br> Dans l’idéal, il faudrait avoir vraiment envie de vivre sa première relation sexuelle. Il faudrait y penser, l’imaginer, en quelque sorte la prévoir : <span class='fluo'>être prêt dans sa tête.</span><br><br>Dans l’idéal, il faudrait avoir choisi de le faire avec une personne avec qui on se sent vraiment en confiance, avec une personne avec qui il est possible d’exprimer ses envies ainsi que ses limites. Généralement, il est plus facile de se sentir en confiance quand on a pris le temps de connaître l’autre et qu’existe un sentiment amoureux, d’attirance ou de complicité : <span class='fluo'>être prêt dans son cœur.</span><br><br>Dans l’idéal, il faut trouver un endroit calme et intime pour vivre cette première relation et <span class='fluo'>avoir avec soi des préservatifs (et de les utiliser) et une contraception adaptée.<br><br>Il n’y a donc pas d’âge idéal, mais il est important de se respecter et de respecter l’autre et le cadre légal.</span>"
         },
         {
-          "titre": "Les pertes blanches",
-          "contenu": "Les pertes blanches ou pertes vaginales sont <span class='fluo'>des écoulements naturels du vagin.</span>De couleur blanchâtre ou translucide et à la texture gluante, les pertes blanches surviennent tout au long de la vie hormonale d’une femme, précédant l’arrivée des règles jusqu’à la ménopause. Elles signifient que les organes génitaux fonctionnent correctement.<img src='img/pertes-blanches.png' alt='Pertes blanches' />"
+          "titre": "",
+          "contenu": "<vid  src='ANIMATION_COMMENT_ARRIVE_GROSSESSE_1'>"
         },
         {
-          "titre": "C'est quoi le cycle menstruel ?",
-          "contenus": [
-            {
-              "titre": "C’EST QUOI LE CYCLE MENSTRUEL ?",
-              "contenu": "<span class='a-savoir'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
-            },
-            {
-              "titre": "LA PHASE FOLLICULAIRE :",
-              "contenu": "<span class='a-savoir'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
-            },
-            {
-              "titre": "L’OVULATION :",
-              "contenu": "c’est la <span class='a-savoir'>libération d’un ovule mature</span> par les ovaires, prêt à être fécondé par un spermatozoïde en cas de rapport sexuel non protégé : <br>• s’il y a fécondation, le cycle ne se termine pas et une grossesse commence. <br>• s’il n’y a pas fécondation et implantation d’un embryon, la muqueuse de l’utérus (endomètre) part en saignements : les règles apparaissent et un nouveau cycle commence."
-            },
-            {
-              "titre": "LA PHASE LUTÉALE : ",
-              "contenu": "<span class='a-savoir'>après l’ovulation, la progestérone prend le relais </span>; elle prépare l’utérus à l’implantation de l’œuf fécondé."
-            },
-            {
-              "titre": "A savoir",
-              "contenu": "<span class='a-savoir'>L'hymen</span> est <span class='a-savoir'>une membrane de muqueuse qui se trouve à l'entrée du vagin.</span> Cette membrane est plus ou moins souple en fonction des femmes. Elle est perforée d'un orifice (ce qui permet l'écoulement des règles) dont la forme est variable.<br> Toutes les filles sont différentes : certaines n'ont pas d'hymen, d'autres ont un hymen tellement souple qu'il ne se rompt qu'à l'accouchement.</span><span class='a-savoir'>Le clitoris</span> est un organe de la forme d'une double arche qui entoure le vagin ; son sommet, le gland, est sa seule partie visible.<br><br>Le clitoris est un organe érectile, exactement comme le pénis, dédié au plaisir : il se gonfle de sang sous l'effet de l'excitation sexuelle. Il joue un rôle fondamental dans le plaisir et l'orgasme féminin !</span>"
-            }
-          ]
+          "titre": "COMMENT FAIT-ON L’AMOUR?",
+          "contenu": "Il y a de nombreuses façons de faire l’amour et c’est à chacun de découvrir ce qui lui convient le mieux. Cela peut prendre la forme de nombreuses caresses sur le corps, de baisers tendres, de stimulations des parties génitales et parfois de pénétrations. <span class='fluo'>L’important c’est d’en avoir envie et de sentir prêt. Les limites étant le RESPECT de l’autre…</span><br><br>Faire l’amour c’est souvent une façon d’exprimer à l’autre ses sentiments : on se sent attiré l’un par l’autre et on se décide, <span class='fluo'>quand on est prêt à partager notre tendresse et notre corps.</span>"
         },
         {
-          "titre": "En pratique<br>C'est comment le sexe masculin ?",
-          "contenu": "(Développement de C'est comment le sexe masculin ?)"
-        },
-        {
-          "titre": "La sexualité",
-          "contenu": "(Développement de la sexualité)"
-        },
-        {
-          "titre": "Personnes - Lieux ressources",
-          "contenu": "(Développement de Personnes - Lieux ressources)"
+          "titre": "PERSONNES - LIEUX RESSOURCES",
+          "contenu": "Les jeunes ont besoin d’informations précises sur la sexualité et d’un environnement qui les soutient, et ce, pour comprendre leurs propres comportements et sentiments amoureux ou sexuels. <span class='fluo'>Il est important de créer un climat ouvert de discussion pour les sujets qui concernent leur sexualité.</span> Cependant, parler de sexualité n’est pas chose facile. Il importe donc de choisir le bon moment et la bonne stratégie afin d’ aborder le sujet tout en respectant l’intimité de l’adolescent.<br><br>• Une personne de confiance : milieu familial ou amical,<br><br>• Médecin généraliste, gynécologue, sage-femme,<br><br>• Infirmière scolaire,<br><br>• Associations de prévention : RIVE, ARPSH, ASETIS, Planning Familial 974, Centre de Planification familiale, AMAFAR, CeGIDD (Nord, Sud, Ouest).<br><br>• Également des réponses en vidéos sur : <link=\"http://www.alonkoze.re\">www.alonkoze.re</link>"
         }
       ]
     }

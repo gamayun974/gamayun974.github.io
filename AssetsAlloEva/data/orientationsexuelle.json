@@ -1,34 +1,42 @@
 {
-  "titre": "Orientation sexuelle (version DISTANTE)",
+  "titre": "Orientation sexuelle",
   "contenus": [
     {
       "titre": "Définition",
       "contenus": [
         {
           "titre": "L’orientation affective et sexuelle",
-          "contenu": "(dev de l’orientation affective et sexuelle)"
+          "contenu": "<span class='fluo'>c’est le désir affectif et sexuel, l’attirance pour des personnes du même sexe que soi (homosexualité), du sexe opposé (hétérosexualité), pour les deux sexes (bisexualité). On peut être attiré vers une personne peu importe son sexe et/ ou son genre (pansexualité) ou ne pas ressentir d’attirance sexuelle et/ou affective (asexualité ou aromantisme)...</span> Pour certain-e-s, l’orientation sexuelle et/ou affective est tout de suite très affirmée. Pour d’autres, elle est moins immédiate, plus changeante.<br><br>Il ne faut pas confondre genre et orientation sexuelle. Par exemple, pour une personne cisgenre comme pour une personne transgenre, son orientation sexuelle peut être hétérosexuelle, homosexuelle, lesbienne, bisexuelle, pansexuelle ou asexuelle."
         },
         {
-          "titre": "L’identité",
-          "contenu": "(dev de l'identité)"
+          "titre": "L’IDENTITÉ DE GENRE",
+          "contenu": " porte sur la façon de se sentir en adéquation ou non avec son sexe biologique.<br><br><b>Cisgenre :</b> identité de genre qui correspond au sexe biologique.<br><br><b>Trans :</b> le genre ne correspond pas au sexe assigné à la naissance.<br><b>Non binaire :</b> on ne s’identifie pas exclusivement comme homme ni exclusivement comme femme.<br><br><b>Queer :</b> personne dont l’orientation sexuelle ou l’identité de genre ne correspond pas aux modèles dominants.<br><br><b>Questioning/Questionnement :</b> personne en questionnement et en cours d’exploration sur son identité de genre et/ou son orientation affective et sexuelle."
         },
         {
-          "titre": "Le genre",
-          "contenu": "(dev du genre)"
+          "titre": "LGBTQQI2SPAA+",
+          "contenu": "<img src='img/1LGBT' alt='Schéma détaillant les LGBTQQI2SPAA+' />"
         },
         {
-          "titre": "Les stéréotypes",
-          "contenu": "(dev des stéréotypes)"
+          "titre": "LES STÉRÉOTYPES",
+          "contenu": "Ce sont des idées toutes faites ou représentations de la femme ou de l’homme. Elles sont véhiculées par la famille, l’entourage amical et plus largement dans la société (milieu scolaire, milieu professionnel, médias...).<br><b>Exemples :</b> la femme soumise, dédiée à son mari et à sa famille, sexy... , l’homme viril, chef de famille, qui ne dévoile pas ses sentiments, ...<br>Les stéréotypes sont aussi présents dans la sexualité entre homme et femme : par exemple, un garçon qui multiplie les relations sexuelles apparaît comme un séducteur; une fille qui additionne les flirts est considérée comme « facile »."
+        },
+        {
+          "titre": "",
+          "contenu": "<amediter>L’important est d’écouter ce que l’on est plutôt que de se conformer à ce que la société attend de soi.</amediter>"
         },
         {
           "titre": "Être un homme et se sentir femme, et vice versa",
-          "contenu": "(dev d'être un homme et se sentir femme, et vice versa)"
+          "contenu": "On peut avoir un pénis et être psychiquement une femme. Ou un vagin et se sentir homme. C’est ce qu’on appelle la <span class='fluo'>« transidentité ».</span> Dans notre société, on peut avoir l’impression qu’être cisgenre et hétérosexuel. le sont les seules options possibles. Pourtant, on peut s’identifier et ressentir autrement. Tout le monde a le droit d’exister, d’être accepté et de se sentir en sécurité, afin de vivre dans une société plus inclusive"
+        },
+        {
+          "titre": "LA PERSONNE GINGENRE",
+          "contenu": "<img src='img/1LaPersonneGingenre' alt='Schéma détaillant les différentes parties du sexe féminin' />"
         }
       ]
     },
     {
       "titre": "PERSONNES - LIEUX RESSOURCES",
-      "contenu": "(à definir...)"
+      "contenu": "• <b>www.cestcommeca.net</b> Un site sur l’orientation sexuelle et l’identité de genre.<br><br>• <b>www.teljeunes.com</b> Site québecois, avec une multitude de témoignages et d’informations sur l’amour, les sexualités, les orientations sexuelles,...<br><br>• <b>www.commentonsaime.fr</b> Un site qui aborde les questions les plus importantes quand on parle d’amour : le couple, les relations épanouissantes, le respect. Un chat est disponible pour en parler avec des professionel.le.s.<br><br>• <b>www.stop-cybersexisme.com</b> Pour s’informer ou signaler le cybersexisme, que l’on soit victime ou témoin.<br><br>• <b>SOS homophobie</b> : 01 48 06 42 41 Ligne d’écoute anonyme et confidentielle<br><br>• Non au harcèlement : 3020 Service et appels gratuits pour les élèves, parents, professionnels.<br><br>• <b>OriZon Réunion</b> Association réunionnaise d’accompagnement, de soutien et d’écoute des personnes LGBTQIA+. www.orizonlgbt.re 06 92 60 07 83<br><br>• <b>Wiki Trans</b> Portail d’information à destination des personnes trans en questionnement ou en cours de transition, ainsi que leurs proches et leurs allié.e.s. www.wikitrans.com"
     }
   ]
 }
