@@ -123,6 +123,14 @@
       "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>NON.</b> L’ovulation n’intervient jamais à une date fixe. Pleins d’évènements peuvent modifier ce moment.</bubbleWhiteRight>"
     },
     {
+      "titre": "",
+      "contenu": ""
+    },
+    {
+      "titre": "",
+      "contenu": "<vid  src='ANIMATION_CYCLE_REGULIER_1'>"
+    },
+    {
       "titre": "EN PRATIQUE<br>C'EST COMMENT LE SEXE MASCULIN ?",
       "contenu": "<img src='img/0EnPratiqueSexeMasculin' alt='En Pratique Sexe Masculin' />"
     },
@@ -195,6 +203,18 @@
         },
         {
           "titre": "",
+          "contenu": ""
+        },
+        {
+          "titre": "L'age idéal",
+          "contenu": "<vid  src='JEUNE_LAZ_IDEAL'>"
+        },
+        {
+          "titre": "",
+          "contenu": ""
+        },
+        {
+          "titre": "La grossesse",
           "contenu": "<vid  src='ANIMATION_COMMENT_ARRIVE_GROSSESSE_1'>"
         },
         {
