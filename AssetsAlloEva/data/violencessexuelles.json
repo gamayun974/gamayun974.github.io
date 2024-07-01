@@ -23,23 +23,23 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand on cède parce qu’on a peur, parce qu’on est menacé(e), qu’on est frappé(e)</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=5></size><b>Il n’y a pas de consentement</b> quand on cède parce qu’on a peur, parce qu’on est menacé(e), qu’on est frappé(e)</bubbleWhiteRight>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand on accepte car l’auteur nous fait continuellement vivre dans la crainte, ou dans la terreur, par exemple</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=5></size><b>Il n’y a pas de consentement</b> quand on accepte car l’auteur nous fait continuellement vivre dans la crainte, ou dans la terreur, par exemple</bubbleWhiteRight>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand on a moins de 15 ans et/ou pas la maturité nécessaire pour comprendre</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=5></size><b>Il n’y a pas de consentement</b> quand on a moins de 15 ans et/ou pas la maturité nécessaire pour comprendre</bubbleWhiteRight>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand quelqu’un profite de notre état de faiblesse, permanent ou passager (grande détresse, handicaps physiques ou mentaux, victime endormie ou sous l’emprise d’alcool, de drogues, ... )</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=5></size><b>Il n’y a pas de consentement</b> quand quelqu’un profite de notre état de faiblesse, permanent ou passager (grande détresse, handicaps physiques ou mentaux, victime endormie ou sous l’emprise d’alcool, de drogues, ... )</bubbleWhiteRight>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><b>Il n’y a pas de consentement</b> quand l’auteur exploite une situation qui nous rend dépendante de lui (c’est notre médecin, notre psychologue, notre professeur, notre prêtre...)</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=5></size><b>Il n’y a pas de consentement</b> quand l’auteur exploite une situation qui nous rend dépendante de lui (c’est notre médecin, notre psychologue, notre professeur, notre prêtre...)</bubbleWhiteRight>"
     },
     {
       "titre": "",
@@ -78,7 +78,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><b>Non elle n’en a pas le droit. Tout acte à connotation sexuelle, même consentie, est interdit entre un mineur et un majeur si celui-ci exerce une autorité vis-à-vis du mineur. Un professeur exerce une autorité sur toi du fait de son métier. Tu dois en parler et porter plainte.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=5></size><b>Non elle n’en a pas le droit. Tout acte à connotation sexuelle, même consentie, est interdit entre un mineur et un majeur si celui-ci exerce une autorité vis-à-vis du mineur. Un professeur exerce une autorité sur toi du fait de son métier. Tu dois en parler et porter plainte.</bubbleWhiteRight>"
         }
       ]
     },
