@@ -11,7 +11,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>Pour une jeune fille mineure, le consentement des parents est fortement recommandé mais non obligatoire. La mineure ne souhaitant pas informer ses parents doit être accompagnée d’une personne de confiance, majeure, de son choix tout au long de sa démarche.</bubbleJauneLeft>"
+      "contenu": "<bubbleJauneLeft><size=150><sprite=2></size>Pour une jeune fille mineure, le consentement des parents est fortement recommandé mais non obligatoire. La mineure ne souhaitant pas informer ses parents doit être accompagnée d’une personne de confiance, majeure, de son choix tout au long de sa démarche.</bubbleJauneLeft>"
     },
     {
       "titre": "",
@@ -60,7 +60,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleJauneLeft>La personne majeure de confiance n’a aucune autorité sur la personne mineure. L’adulte accompagnant est tenu au secret. Tout manquement à ce secret est une atteinte à la vie privée!</bubbleJauneLeft>"
+      "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>La personne majeure de confiance n’a aucune autorité sur la personne mineure. L’adulte accompagnant est tenu au secret. Tout manquement à ce secret est une atteinte à la vie privée!</bubbleJauneLeft>"
     },
     {
       "titre": "<br><br>GOMMER LES IDÉES REÇUES",
@@ -88,7 +88,7 @@
 
         {
           "titre": "",
-          "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>En faisant une IVG, je tue mon bébé?</bubbleJauneLeft>"
+          "contenu": "<bubbleJauneLeft><size=150><sprite=2></size>En faisant une IVG, je tue mon bébé?</bubbleJauneLeft>"
         },
         {
           "titre": "",

@@ -58,7 +58,7 @@
       "contenus": [
         {
           "titre": "",
-          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>J’ai 15 ans, je sors avec un lycéen de 18 ans : est ce que j’ai le droit?</bubbleRougeLeft>"
+          "contenu": "<bubbleRougeLeft><size=150><sprite=4></size>J’ai 15 ans, je sors avec un lycéen de 18 ans : est ce que j’ai le droit?</bubbleRougeLeft>"
         },
         {
           "titre": "",
@@ -66,24 +66,15 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>Quand on mélange l’alcool avec du jus de fruits ou des boissons sucrées, ses effets sont diminués?</bubbleRougeLeft>"
+          "contenu": "<bubbleRougeLeft><size=150><sprite=4></size>J’ai 17 ans et j’ai pécho le copain de mon frère qui a 25 ans. Je ne risque rien, j’ai plus de 15 ans et je suis majeure sexuellement.</bubbleRougeLeft>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Ce qui compte, c’est la quantité d’alcool absorbée, et elle ne change pas si vous ajoutez de l’eau, ou même un jus de fruit. L’alcool est juste dilué, mais il n’a pas disparu. Une boisson alcoolisée contient la même quantité d’alcool qu’elle soit pure ou allongée, avec ou sans glace.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Si la relation est consentante entre vous deux, la loi n’interdit pas les relations sexuelles entre une personne majeure et une personne mineure de 15 ans ou plus. Mais tes parents peuvent s’y opposer en portant plainte s’ils estiment que ton consentement n’est pas total</bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>J’ai 17 ans et j’ai pécho le copain de mon frère qui a 25 ans. Je ne risque rien, j’ai plus de 15 ans et je suis majeure sexuellement.</bubbleRougeLeft>"
-        },
-        {
-          "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>Si la relation est consentante entre vous deux, la loi n’interdit pas les relations sexuelles entre une personne majeure et une personne mineure de 15 ans ou plus. Mais tes parents peuvent s’y opposer en portant plainte s’ils estiment que ton consentement n’est pas total. </bubbleWhiteRight>"
-        },
-
-        {
-          "titre": "",
-          "contenu": "<bubbleRougeLeft>Pendant les vacances, j’ai fait un stage de tennis. L’animatrice m’a touché plusieurs fois à des endroits intimes. Elle m’a dit que c’est normal entre filles. A -t-elle le droit?<bubbleRougeLeft>"
+          "contenu": "<bubbleRougeLeft><size=150><sprite=0></size>Pendant les vacances, j’ai fait un stage de tennis. L’animatrice m’a touché plusieurs fois à des endroits intimes. Elle m’a dit que c’est normal entre filles. A -t-elle le droit?<bubbleRougeLeft>"
         },
         {
           "titre": "",

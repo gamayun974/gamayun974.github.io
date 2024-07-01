@@ -22,7 +22,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleVertLeft><size=150><sprite=0></size>L’Hépatite C n’est pas considérée comme une IST puisqu’elle se transmet essentiellement lors des échanges sanguins. </bubbleVertLeft>"
+          "contenu": "<bubbleVertLeft><size=150><sprite=4></size>L’Hépatite C n’est pas considérée comme une IST puisqu’elle se transmet essentiellement lors des échanges sanguins. </bubbleVertLeft>"
         },
         {
           "titre": "",
@@ -47,6 +47,10 @@
         {
           "titre": "",
           "contenu": "<br><b>2. A partir de la 4ème semaine :</b> un dépistage sérologique (prise de sang) sera pratiqué et jugé fiable.<br><b>3. Au-delà des 2 mois :</b> un Test Rapide d’Orientation Diagnostique (TROD) par piqûre au bout du doigt pourra être proposé et jugé fiable.<br><b>POUR LES AUTRES IST</b><br> En fonction de la prise de risque, du délai et de l’IST, le dépistage peut nécessiter soit une prise de sang et/ou des prélèvements locaux."
+        },
+        {
+          "titre": "",
+          "contenu": "<bubbleVertLeft><size=150><sprite=1></size>Dans tous les cas, un entretien confidentiel et personnalisé dans un centre ressource permettra d’orienter la personne vers tous les examens nécessaires</bubbleVertLeft>"
         },
         {
           "titre": "",
@@ -88,7 +92,7 @@
     },
     {
       "titre": "GOMMER LES IDÉES REÇUES",
-      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>Une IST s’attrape sur la cuvette des toilettes</bubbleVertLeft>"
+      "contenu": "<bubbleVertLeft><size=150><sprite=2></size>Une IST s’attrape sur la cuvette des toilettes</bubbleVertLeft>"
     },
     {
       "titre": "",
@@ -96,7 +100,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>Une IST ne s’attrape que par le vagin.</bubbleVertLeft>"
+      "contenu": "<bubbleVertLeft><size=150><sprite=2></size>Une IST ne s’attrape que par le vagin.</bubbleVertLeft>"
     },
     {
       "titre": "",
@@ -105,7 +109,7 @@
 
     {
       "titre": "",
-      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>Quand une personne sent bon et est propre elle ne peut pas avoir ou transmettre une IST.</bubbleVertLeft>"
+      "contenu": "<bubbleVertLeft><size=150><sprite=2></size>Quand une personne sent bon et est propre elle ne peut pas avoir ou transmettre une IST.</bubbleVertLeft>"
     },
     {
       "titre": "",
@@ -113,7 +117,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleVertLeft><size=150><sprite=0></size>J’ai fait un bilan sanguin donc je me suis fait(e) dépister aussi pour les IST.</bubbleVertLeft>"
+      "contenu": "<bubbleVertLeft><size=150><sprite=2></size>J’ai fait un bilan sanguin donc je me suis fait(e) dépister aussi pour les IST.</bubbleVertLeft>"
     },
     {
       "titre": "",

@@ -31,7 +31,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Dans l’idéal, il vaut mieux toujours avoir une contraception d’urgence en avance ! comme une roue de secours en cas d’urgence…</bubbleTurquoiseLeft>"
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=1></size>Dans l’idéal, il vaut mieux toujours avoir une contraception d’urgence en avance ! comme une roue de secours en cas d’urgence…</bubbleTurquoiseLeft>"
     },
     {
       "titre": "",
@@ -39,7 +39,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Attention l’efficacité est diminuée si surpoids ou obésité. Dans ce cas, la méthode d’urgence efficace est le DIU au cuivre.</bubbleTurquoiseLeft>"
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=2></size>Attention l’efficacité est diminuée si surpoids ou obésité. Dans ce cas, la méthode d’urgence efficace est le DIU au cuivre.</bubbleTurquoiseLeft>"
     },
     {
       "titre": "",
@@ -59,14 +59,14 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Dans tous les cas, si absence de règles, test de grossesse 21 jours après la prise de la contraception d’urgence.</bubbleTurquoiseLeft>"
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=4></size>Dans tous les cas, si absence de règles, test de grossesse 21 jours après la prise de la contraception d’urgence.</bubbleTurquoiseLeft>"
     },
     {
       "titre": "<br><br>GOMMER LES IDÉES REÇUES",
       "contenus": [
         {
           "titre": "",
-          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>La pilule du lendemain, c’est un moyen de contraception?</bubbleTurquoiseLeft>"
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=2></size>La pilule du lendemain, c’est un moyen de contraception?</bubbleTurquoiseLeft>"
         },
         {
           "titre": "",
@@ -74,7 +74,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>Alors c’est comme faire une IVG?</bubbleTurquoiseLeft>"
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=2></size>Alors c’est comme faire une IVG?</bubbleTurquoiseLeft>"
         },
         {
           "titre": "",
