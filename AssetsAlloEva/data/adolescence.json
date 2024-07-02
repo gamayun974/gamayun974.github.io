@@ -112,7 +112,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=1></size><b>FAUX</b>. Le retard ou l’absence de règles peut arriver chez une adolescente. Mais attention ! S’il y a eu un rapport sexuel non protégé, cette absence ou retard peut signifier le début d’une grossesse. Un rapport sexuel et un seul peut suffire à provoquer une grossesse.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX</b>. Le retard ou l’absence de règles peut arriver chez une adolescente. Mais attention ! S’il y a eu un rapport sexuel non protégé, cette absence ou retard peut signifier le début d’une grossesse. Un rapport sexuel et un seul peut suffire à provoquer une grossesse.</bubbleWhiteRight>"
     },
     {
       "titre": "",
@@ -132,11 +132,11 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleOrangeLeft><size=150><sprite=1></size>Si tu ne laves pas régulièrement sous le prépuce, une substance crémeuse d’un blanc jaunâtre qui ne sent pas bon, apparaîtra.</bubbleOrangeLeft>"
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>Si tu ne laves pas régulièrement sous le prépuce, une substance crémeuse d’un blanc jaunâtre qui ne sent pas bon, apparaîtra.</bubbleOrangeLeft>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=3></size>Tu dois pouvoir te décalotter (tirer la peau du prépuce en arrière) de manière à dégager le gland) et le laver au moins une fois par jour à l’eau et au savon !</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>Tu dois pouvoir te décalotter (tirer la peau du prépuce en arrière) de manière à dégager le gland) et le laver au moins une fois par jour à l’eau et au savon !</bubbleWhiteRight>"
     },
     {
       "titre": "LIQUIDE SÉMINAL, SPERME ET ÉJACULATION",
@@ -160,11 +160,11 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleOrangeLeft><size=150><sprite=1></size>J’ai un petit pénis, est ce que c’est normal ?</bubbleOrangeLeft>"
+      "contenu": "<bubbleOrangeLeft><size=150><sprite=0></size>J’ai un petit pénis, est ce que c’est normal ?</bubbleOrangeLeft>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=3></size>La taille d’un pénis est variable d’un homme à l’autre. La taille du sexe masculin n’est pas très importante puisqu’elle est indépendante du plaisir qu’elle peut procurer. Dans tous les cas, il n’y a pas de relation entre la taille du sexe et le plaisir donné ou reçu.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>La taille d’un pénis est variable d’un homme à l’autre. La taille du sexe masculin n’est pas très importante puisqu’elle est indépendante du plaisir qu’elle peut procurer. Dans tous les cas, il n’y a pas de relation entre la taille du sexe et le plaisir donné ou reçu.</bubbleWhiteRight>"
     },
     {
       "titre": "",
@@ -172,7 +172,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=3></size>Chaque testicule produit plusieurs millions de spermatozoïdes par jour. Se masturber ne provoque donc pas d’appauvrissement de la production de sperme.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>Chaque testicule produit plusieurs millions de spermatozoïdes par jour. Se masturber ne provoque donc pas d’appauvrissement de la production de sperme.</bubbleWhiteRight>"
     },
     {
       "titre": "",
@@ -180,7 +180,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=3></size><b>NON !</b> La masturbation est un acte naturel, intime. Par contre, elle ne peut pas être pratiquée en public. Elle peut aider à mieux connaître son corps, maîtriser ses orgasmes.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=4></size><b>NON !</b> La masturbation est un acte naturel, intime. Par contre, elle ne peut pas être pratiquée en public. Elle peut aider à mieux connaître son corps, maîtriser ses orgasmes.</bubbleWhiteRight>"
     },
     {
       "titre": "LA SEXUALITÉ",
