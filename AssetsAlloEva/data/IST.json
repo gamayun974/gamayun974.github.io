@@ -54,7 +54,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Le dépistage de l’infection à Chlamydiae est maintenant proposé systématiquement.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>Le dépistage de l’infection à Chlamydiae est maintenant proposé systématiquement.</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -100,11 +100,19 @@
     },
     {
       "titre": "",
+      "contenu": "<bubbleVertLeft><size=150><sprite=2></size>Une IST ne s’attrape jamais lors du 1er rapport sexuel.</bubbleVertLeft>"
+    },
+    {
+      "titre": "",
+      "contenu": "<bubbleWhiteRight><b>FAUX !<b> Tout rapport sexuel non protégé est à  risque.</bubbleWhiteRight>"
+    },
+    {
+      "titre": "",
       "contenu": "<bubbleVertLeft><size=150><sprite=2></size>Une IST ne s’attrape que par le vagin.</bubbleVertLeft>"
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Les IST se transmettent par rapport sexuel buccal, vaginal, anal ou par le sang</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><b>FAUX !<b> Les IST se transmettent par rapport sexuel buccal, vaginal, anal ou par le sang</bubbleWhiteRight>"
     },
 
     {
@@ -113,7 +121,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Une IST ne se voit pas forcément, et ne dépend pas de l’hygiène ou de la catégorie socio professionnelle d’une personne.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><b>FAUX !<b> Une IST ne se voit pas forcément, et ne dépend pas de l’hygiène ou de la catégorie socio professionnelle d’une personne.</bubbleWhiteRight>"
     },
     {
       "titre": "",
@@ -121,7 +129,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !<b> Le dépistage des IST n’est pas systématique lors de toute prise de sang ; il doit être demandé par le patient ou proposé par le professionnel de santé.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><b>FAUX !<b> Le dépistage des IST n’est pas systématique lors de toute prise de sang ; il doit être demandé par le patient ou proposé par le professionnel de santé.</bubbleWhiteRight>"
     }
   ]
 }
