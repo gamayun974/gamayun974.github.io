@@ -15,7 +15,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>La mineure doit demander l’IVG ellemême. La décision lui appartient.</bubbleWhiteRight>"
+      "contenu": "<bubbleWhiteRight><size=150><sprite=4></size><b>La mineure doit demander l’IVG ellemême. La décision lui appartient.</bubbleWhiteRight>"
     },
     {
       "titre": "Délais et méthodes",
@@ -60,7 +60,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleJauneLeft><size=150><sprite=0></size>La personne majeure de confiance n’a aucune autorité sur la personne mineure. L’adulte accompagnant est tenu au secret. Tout manquement à ce secret est une atteinte à la vie privée!</bubbleJauneLeft>"
+      "contenu": "<bubbleJauneLeft>La personne majeure de confiance n’a aucune autorité sur la personne mineure. L’adulte accompagnant est tenu au secret. Tout manquement à ce secret est une atteinte à la vie privée!</bubbleJauneLeft>"
     },
     {
       "titre": "<br><br>GOMMER LES IDÉES REÇUES",
@@ -71,7 +71,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> ! L’IVG est anonyme et confidentielle. Les professionnels sont tenus au secret médical.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> ! L’IVG est anonyme et confidentielle. Les professionnels sont tenus au secret médical.</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -79,11 +79,11 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> Quand l’IVG est réalisée dans de bonnes conditions (professionnel de santé conventionné ou hôpital) les complications sont rares. </bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> Quand l’IVG est réalisée dans de bonnes conditions (professionnel de santé conventionné ou hôpital) les complications sont rares. </bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>L’IVG ne rend pas stérile et ne provoque pas le cancer</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=1></size>L’IVG ne rend pas stérile et ne provoque pas le cancer</bubbleWhiteRight>"
         },
 
         {
@@ -92,7 +92,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> La loi rend légale la possibilité d’interrompre une grossesse jusqu’à 16 SA. L’IVG n’est pas un délit ni un crime : c’est un droit pour toutes les femmes.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> La loi rend légale la possibilité d’interrompre une grossesse jusqu’à 16 SA. L’IVG n’est pas un délit ni un crime : c’est un droit pour toutes les femmes.</bubbleWhiteRight>"
         },
 
         {
@@ -101,11 +101,11 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> L’IVG, à la différence de la contraception, intervient une fois que la grossesse a débuté.<br>Le recours à l’IVG consiste à stopper cette grossesse par voie médicamenteuse ou chirurgicale.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> L’IVG, à la différence de la contraception, intervient une fois que la grossesse a débuté.<br>Le recours à l’IVG consiste à stopper cette grossesse par voie médicamenteuse ou chirurgicale.</bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>L’IVG doit rester exceptionnelle, l’idéal étant d’avoir un moyen de contraception adapté pour éviter une grossesse non souhaitée.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>L’IVG doit rester exceptionnelle, l’idéal étant d’avoir un moyen de contraception adapté pour éviter une grossesse non souhaitée.</bubbleWhiteRight>"
         },
 
         {
@@ -114,7 +114,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> L’IVG et tous les examens nécessaires sont pris en charge à 100% sans avance de frais.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> L’IVG et tous les examens nécessaires sont pris en charge à 100% sans avance de frais.</bubbleWhiteRight>"
         },
 
         {
@@ -123,11 +123,11 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> si je n’ai pas l’accord de mes parents, je peux choisir une personne majeure de confiance pour m’accompagner dans ma démarche d’IVG.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> si je n’ai pas l’accord de mes parents, je peux choisir une personne majeure de confiance pour m’accompagner dans ma démarche d’IVG.</bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>L’IVG peut être anonyme. </bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=1></size>L’IVG peut être anonyme. </bubbleWhiteRight>"
         }
       ]
     },
