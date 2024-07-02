@@ -76,15 +76,15 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>• De moins de 12 heures:</b> prendre le comprimé oublié immédiatement et continuer sa plaquette normalement (même si 2 comprimés doivent être pris le même jour) <br><b>• De plus de 12 heures:</b> prendre le comprimé oublié immédiatement, continuer la plaquette et associer une contraception barrière (préservatif) jusqu’à la fin du cycle.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=4></size><b>• De moins de 12 heures:</b> prendre le comprimé oublié immédiatement et continuer sa plaquette normalement (même si 2 comprimés doivent être pris le même jour) <br><b>• De plus de 12 heures:</b> prendre le comprimé oublié immédiatement, continuer la plaquette et associer une contraception barrière (préservatif) jusqu’à la fin du cycle.</bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>En cas de rapport sexuel non protégé les jours suivants l’oubli de pilule, prendre une contraception d’urgence et faire un dépistage des IST.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>En cas de rapport sexuel non protégé les jours suivants l’oubli de pilule, prendre une contraception d’urgence et faire un dépistage des IST.</bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Si les règles n’apparaissent pas à la fin du cycle, faire un test de grossesse (urinaire ou prise de sang).</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>Si les règles n’apparaissent pas à la fin du cycle, faire un test de grossesse (urinaire ou prise de sang).</bubbleWhiteRight>"
         },
         {
           "titre": "",
