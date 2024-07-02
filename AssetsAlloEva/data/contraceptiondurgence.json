@@ -59,7 +59,7 @@
     },
     {
       "titre": "",
-      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=4></size>Dans tous les cas, si absence de règles, test de grossesse 21 jours après la prise de la contraception d’urgence.</bubbleTurquoiseLeft>"
+      "contenu": "<bubbleTurquoiseLeft><size=150><sprite=1></size>Dans tous les cas, si absence de règles, test de grossesse 21 jours après la prise de la contraception d’urgence.</bubbleTurquoiseLeft>"
     },
     {
       "titre": "<br><br>GOMMER LES IDÉES REÇUES",
@@ -70,7 +70,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> C’est une méthode de rattrapage pour bloquer ou retarder l’ovulation.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> C’est une méthode de rattrapage pour bloquer ou retarder l’ovulation.</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -78,7 +78,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> Si la grossesse a déjà commencé la pilule du lendemain ne va pas l’arrêter.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> Si la grossesse a déjà commencé la pilule du lendemain ne va pas l’arrêter.</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -86,7 +86,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b> La pilule peut perturber momentanément le cycle hormonal. Elle n’est pas mauvaise pour la santé mais il ne faut pas en abuser!</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> La pilule peut perturber momentanément le cycle hormonal. Elle n’est pas mauvaise pour la santé mais il ne faut pas en abuser!</bubbleWhiteRight>"
         }
       ]
     },
