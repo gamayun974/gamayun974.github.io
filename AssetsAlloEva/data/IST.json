@@ -74,7 +74,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Le traitement d’une IST n’est pas immunisant : ce n’est pas un vaccin…</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight>Le traitement d’une IST n’est pas immunisant : ce n’est pas un vaccin…</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -82,7 +82,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Prévenez votre ou vos partenaires : un test de dépistage et/ou un traitement sont indispensables.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight>Prévenez votre ou vos partenaires : un test de dépistage et/ou un traitement sont indispensables.</bubbleWhiteRight>"
         }
       ]
     },
