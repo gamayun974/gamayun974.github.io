@@ -62,7 +62,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Tu as affaire à un Pop-up ! C’est une fenêtre intruse ou fenêtre surgissante, qui s’affiche, sans avoir été sollicitée par l’utilisateur, devant la fenêtre de navigation principale lorsque l’on navigue sur Internet. Attention cela peut venir de contenus pornographiques ou inadaptés à un jeune, voire d’un virus informatique ou d’une tentative de piratage.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=5></size>Tu as affaire à un Pop-up ! C’est une fenêtre intruse ou fenêtre surgissante, qui s’affiche, sans avoir été sollicitée par l’utilisateur, devant la fenêtre de navigation principale lorsque l’on navigue sur Internet. Attention cela peut venir de contenus pornographiques ou inadaptés à un jeune, voire d’un virus informatique ou d’une tentative de piratage.</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -70,7 +70,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size>Tu es victime d’un cyberflashing ! Ce sont des images ou photo à caractère sexuel plus ou moins choquantes que tu reçois sans l’avoir souhaité ou contrôlé. Ces images apparaissent de façon rapide sans que tu t’y attendes. Il est nécessaire de bien vérifier les réglages de ton téléphone et d’en parler à un adulte.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=2></size>Tu es victime d’un cyberflashing ! Ce sont des images ou photo à caractère sexuel plus ou moins choquantes que tu reçois sans l’avoir souhaité ou contrôlé. Ces images apparaissent de façon rapide sans que tu t’y attendes. Il est nécessaire de bien vérifier les réglages de ton téléphone et d’en parler à un adulte.</bubbleWhiteRight>"
         },
         {
           "titre": "",
@@ -78,7 +78,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b><br>Il est toujours possible que ces photos soient diffusées, sans ton autorisation à des personnes que tu ne connais pas. Tu n’auras ensuite aucun contrôle de ces images qui peuvent être utilisées à des fins de moqueries, de chantage!</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b><br>Il est toujours possible que ces photos soient diffusées, sans ton autorisation à des personnes que tu ne connais pas. Tu n’auras ensuite aucun contrôle de ces images qui peuvent être utilisées à des fins de moqueries, de chantage!</bubbleWhiteRight>"
         }
       ]
     },

@@ -86,7 +86,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>FAUX !</b><br>C’est tout l’inverse ! L’alcool déshydrate sévèrement et c’est cette déshydratation qui cause l’effet « gueule de bois » après quelques verres de trop. Il faut boire beaucoup d’eau pour réduire les risques associés à l’alcool.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b><br>C’est tout l’inverse ! L’alcool déshydrate sévèrement et c’est cette déshydratation qui cause l’effet « gueule de bois » après quelques verres de trop. Il faut boire beaucoup d’eau pour réduire les risques associés à l’alcool.</bubbleWhiteRight>"
         },
 
         {
@@ -95,7 +95,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=0></size><b>ATTENTION !</b><br>Cette façon de boire rapidement beaucoup d’alcool est dangereuse ! Un coma peut s’installer, sans que l’on s’en aperçoive. De l’extérieur, on peut confondre « sommeil d’ivrogne » avec « plongée dans le coma » avec parfois des conséquences irréversibles.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>ATTENTION !</b><br>Cette façon de boire rapidement beaucoup d’alcool est dangereuse ! Un coma peut s’installer, sans que l’on s’en aperçoive. De l’extérieur, on peut confondre « sommeil d’ivrogne » avec « plongée dans le coma » avec parfois des conséquences irréversibles.</bubbleWhiteRight>"
         }
       ]
     },
