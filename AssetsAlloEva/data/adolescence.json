@@ -79,6 +79,10 @@
       "contenu": "<span class='fluo'>Le cycle menstruel est la période de préparation du corps féminin à l’ovulation et à la nidation en cas de fécondation de l’ovule.</span>"
     },
     {
+      "titre": "Le Cycle Menstruel",
+      "contenu": "<vid  src='ANIMATION_CYCLE_REGULIER_1'>"
+    },
+    {
       "titre": "LA PHASE FOLLICULAIRE :",
       "contenu": "<span class='fluo'>Les œstrogènes sont produits par le follicule ovarien pendant la 1ère partie du cycle.</span> Ils stimulent la production de glaire cervicale ainsi qu’une petite ouverture du col de l’utérus afin de faciliter l’accès des spermatozoïdes (dans le cas où le rapport sexuel est non protégé)."
     },
@@ -101,6 +105,10 @@
     {
       "titre": "RISQUE DE GROSSESSE",
       "contenu": "Lors de tout rapport sexuel, dès lors qu’il y a contact du liquide séminal et/ou du sperme avec les parties génitales d’une fille réglée, il peut y avoir fécondation donc grossesse.<br><br>A partir du moment où une jeune fille est réglée (même dès la 1ère fois), l’ovulation est possible, <span class='fluo'>donc le risque de grossesse existe quelque soit l’âge et surtout si le rapport sexuel n’est pas protégé.</span><br><br>Une jeune fille qui saigne et qui a des rapports sexuels non protégés risque d’être enceinte, car le saignement ne correspond pas forcément à un début de cycle (règles)."
+    },
+    {
+      "titre": "La grossesse",
+      "contenu": "<vid  src='ANIMATION_COMMENT_ARRIVE_GROSSESSE_1'>"
     },
     {
       "titre": "GOMMER LES IDÉES REÇUES",
