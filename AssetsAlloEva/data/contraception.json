@@ -87,11 +87,11 @@
           "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>Si les règles n’apparaissent pas à la fin du cycle, faire un test de grossesse (urinaire ou prise de sang).</bubbleWhiteRight>"
         },
         {
-          "titre": "",
+          "titre": "L’IMPLANT",
           "contenu": "<img src='img/3Implant' alt='Photo d'un implant' />"
         },
         {
-          "titre": "L’IMPLANT",
+          "titre": "",
           "contenu": "Petit bâtonnet cylindrique souple de 4 cm, inséré sous la peau du bras sous anesthésie locale par un médecin ou une sage-femme.<br>L’implant peut être laissé en place jusqu’à 3 ans.<br>Il diffuse de la progestérone. "
         },
         {
@@ -107,11 +107,11 @@
           "contenu": "<bubbleWhiteRight>Une contraception discrète, efficace sans avoir à y penser</bubbleWhiteRight>"
         },
         {
-          "titre": "",
+          "titre": "LE DISPOSITIF INTRA UTÉRIN",
           "contenu": "<img src='img/3Implant2' alt='Photo d'un DIU' />"
         },
         {
-          "titre": "LE DISPOSITIF INTRA UTÉRIN",
+          "titre": "",
           "contenu": "<b>Le DIU ou dispositif intra utérin est un moyen de contraception inséré dans l’utérus (la femme ne le sent pas du tout).</b> <br>Il est souvent en forme de T, se termine par un fil qui est coupé court au niveau du col de l’utérus par la sage-femme ou le médecin qui le pose : généralement ce fil n’est pas ressenti par le partenaire."
         },
         {
@@ -123,11 +123,11 @@
           "contenu": "<asavoir>Le DIU peut être posé à toutes les femmes : même à celles qui n’ont pas encore eu d’enfant, et même aux jeunes filles. <br>Un DIU est anciennement appelé stérilet mais il ne rend pas stérile!</asavoir>"
         },
         {
-          "titre": "",
+          "titre": "L’ANNEAU VAGINAL",
           "contenu": "<img src='img/3AnneauVaginal' alt='Photo d'un Anneau Vaginal' />"
         },
         {
-          "titre": "L’ANNEAU VAGINAL",
+          "titre": "",
           "contenu": "C’est un anneau flexible en plastique qui contient une association d’hormones (oestrogènes + progestérone) diffusées en continu (3 semaines sur 4). <br><br>Ce dispositif bloque l’ovulation et modifie la glaire cervicale. <br><br>Il est inséré manuellement au fond du vagin par la femme : <br>• 1 anneau à insérer et garder pendant 3 semaines <br>• 7 jours sans anneau : apparition des règles<br>• Pose d’un nouvel anneau pour 3 semaines <br>• Prescrit par le médecin ou la sage-femme <br>• Non remboursé<br><br>Méthode qui demande une bonne connaissance de son anatomie et nécessite d’être à l’aise avec son corps."
         },
         {
@@ -139,19 +139,19 @@
           "contenu": "<img src='img/3PoseAnneau' alt='Pose d'un Anneau Vaginal' />"
         },
         {
-          "titre": "",
+          "titre": "LE PATCH",
           "contenu": "<img src='img/3LePatch' alt='Photo d'un Patch' />"
         },
         {
-          "titre": "LE PATCH",
+          "titre": "",
           "contenu": "Timbre de 20 cm, contenant de la progestérone, à poser le premier jour des règles sur le ventre, les épaules ou le bas du dos. <br><br>• un patch collé chaque semaine pendant 3 semaines consécutives <br><br>• 7 jours sans patch : apparition des règles <br><br>• pose d’un nouveau patch par semaine pendant 3 semaines <br><br><br><br><b>Si décollement, repositionner un autre le plus rapidement possible dans les 24 heures</b> (si dépassement, suivre modalités « oubli pilule »)."
         },
         {
-          "titre": "",
+          "titre": "LE PRESERVATIF",
           "contenu": "<img src='img/3Preservatif' alt='Photo d'un Preservatif' />"
         },
         {
-          "titre": "LE Preservatif",
+          "titre": "",
           "contenu": "C’est une enveloppe fine et souple à glisser sur le pénis en érection (préservatif externe) ou une gaine souple munie d’un anneau à chaque extrémité à placer dans le vagin (préservatif interne) <b>Ils permettent de se protéger des Infections Sexuellement Transmissibles</b> et éventuellement des grossesses non désirées (s’il est associé à un autre moyen contraception). Son efficacité dépend de sa bonne utilisation. <br><br>On distingue : <br>• Le préservatif externe ou préservatif masculin appelé plus communément capote, condom, <br>• Le préservatif interne ou préservatif féminin (introduit dans le vagin avant le rapport) <br><br><b>Les préservatifs sont à utiliser lors de tout rapport sexuel : buccal, vaginal, anal.</b><br><br>Certains préservatifs internes ou externes peuvent être remboursés sur prescription médicale, sinon gratuitement dans les centres de prévention (CeGIDD, CPF, association Planning Familial ou autre association de prévention), les infirmeries scolaires et services universitaires et gratuitement dans toutes les pharmacies pour les jeunes de moins de 26 ans..."
         },
         {
