@@ -66,7 +66,7 @@
       "contenus": [
         {
           "titre": "",
-          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=2></size>La pilule du lendemain, c’est un moyen de contraception?</bubbleTurquoiseLeft>"
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=2></size>La pilule d'urgence, c’est un moyen de contraception?</bubbleTurquoiseLeft>"
         },
         {
           "titre": "",
@@ -78,11 +78,11 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><b>FAUX !</b> Si la grossesse a déjà commencé la pilule du lendemain ne va pas l’arrêter.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><b>FAUX !</b> Si la grossesse a déjà commencé la pilule d'urgence ne va pas l’arrêter.</bubbleWhiteRight>"
         },
         {
           "titre": "",
-          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>La pilule du lendemain, c’est dangereux, ça rend stérile!</bubbleTurquoiseLeft>"
+          "contenu": "<bubbleTurquoiseLeft><size=150><sprite=0></size>La pilule d'urgence, c’est dangereux, ça rend stérile!</bubbleTurquoiseLeft>"
         },
         {
           "titre": "",
@@ -92,7 +92,7 @@
     },
     {
       "titre": "",
-      "contenu": "La contraception d’urgence intra-utérine est une méthode moins connue, car plus complexe à mettre en œuvre.  <span class='fluo'>Cependant, le dispositif intra-utérin (DIU) au cuivre ou stérilet constitue la méthode de contraception d’urgence la plus efficace en cas de rapports sexuels non ou mal protégés.</span><br><br>Le DIU en cuivre a un effet spermicide et rend les spermatozoïdes inactifs. Il ne bloque pas l’ovulation, mais en agissant également sur la muqueuse utérine, il empêche qu’un ovule fécondé ne se fixe dans l’utérus.<br><br>Ce stérilet en cuivre doit être posé dans les cinq jours maximum qui suivent le rapport sexuel à risque. La pose d’un stérilet nécessite une consultation préalable chez un médecin, un gynécologue ou une sage-femme. Le dispositif intra-utérin (DIU) est inséré dans l’utérus par un médecin ou une sage-femme.<br><br>Une fois posé, le stérilet peut rester en place 5 ans et devenir une contraception régulière.<br><br>Le DIU au cuivre est disponible en pharmacie sur prescription médicale. Il est pris en charge à 100 % par l’Assurance Maladie si vous avez moins de 26 ans. <span class='fluo'>L’anonymat et la gratuité sont garantis pour les moins de 26 ans.</span>"
+      "contenu": "La contraception d’urgence intra-utérine est une méthode moins connue, car plus complexe à mettre en œuvre.  <span class='fluo'>Cependant, le dispositif intra-utérin (DIU) au cuivre ou stérilet constitue la méthode de contraception d’urgence la plus efficace en cas de rapports sexuels non ou mal protégés.</span><br><br><img src='img/3Implant2' alt='Photo d'un DIU' /><br>Le DIU en cuivre a un effet spermicide et rend les spermatozoïdes inactifs. Il ne bloque pas l’ovulation, mais en agissant également sur la muqueuse utérine, il empêche qu’un ovule fécondé ne se fixe dans l’utérus.<br><br>Ce stérilet en cuivre doit être posé dans les <B>cinq jours</B> maximum qui suivent le rapport sexuel à risque. La pose d’un stérilet nécessite une consultation préalable chez un médecin, un gynécologue ou une sage-femme. Le dispositif intra-utérin (DIU) est inséré dans l’utérus par un médecin ou une sage-femme.<br><br>Une fois posé, le stérilet peut rester en place 5 ans et devenir une contraception régulière.<br><br>Le DIU au cuivre est disponible en pharmacie sur prescription médicale. Il est pris en charge à 100 % par l’Assurance Maladie si vous avez moins de 26 ans. <span class='fluo'>L’anonymat et la gratuité sont garantis pour les moins de 26 ans.</span>"
     }
   ]
 }
