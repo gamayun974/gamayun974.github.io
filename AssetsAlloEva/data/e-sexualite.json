@@ -62,7 +62,7 @@
         },
         {
           "titre": "",
-          "contenu": "<bubbleWhiteRight><size=150><sprite=5></size>Tu as affaire à un Pop-up ! C’est une fenêtre intruse ou fenêtre surgissante, qui s’affiche, sans avoir été sollicitée par l’utilisateur, devant la fenêtre de navigation principale lorsque l’on navigue sur Internet. Attention cela peut venir de contenus pornographiques ou inadaptés à un jeune, voire d’un virus informatique ou d’une tentative de piratage.</bubbleWhiteRight>"
+          "contenu": "<bubbleWhiteRight><size=150><sprite=4></size>Tu as affaire à un Pop-up ! C’est une fenêtre intruse ou fenêtre surgissante, qui s’affiche, sans avoir été sollicitée par l’utilisateur, devant la fenêtre de navigation principale lorsque l’on navigue sur Internet. Attention cela peut venir de contenus pornographiques ou inadaptés à un jeune, voire d’un virus informatique ou d’une tentative de piratage.</bubbleWhiteRight>"
         },
         {
           "titre": "",
